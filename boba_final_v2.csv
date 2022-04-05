@@ -1,0 +1,814 @@
+,Shop,Location,Rating,Reviews,City,Type,Price
+0,Black Sugar - Boba Bar,320 O'Farrell St,4.7,304,San Francisco,Bubble Tea,Inexpensive
+1,Boba Guys,429 Stockton St,4.4,1370,San Francisco,Bubble Tea,Inexpensive
+2,Qualitea,4023 18th St,4.5,150,San Francisco,Bubble Tea,Inexpensive
+3,Boba Guys Mission,3491 19th St,4.5,940,San Francisco,Bubble Tea,Inexpensive
+4,Boba Guys Hayes Valley,8 Octavia St #308,4.5,766,San Francisco,Bubble Tea,Inexpensive
+5,Sharetea,135 4th St,4.2,325,San Francisco,Bubble Tea,Inexpensive
+6,LITTLE SWEET,3836 Geary Blvd,4.4,306,San Francisco,Bubble Tea,Inexpensive
+7,BobaBunni,402 Balboa St,4.5,58,San Francisco,Bubble Tea,Inexpensive
+8,Cool Tea Bar,103 Waverly Pl,4.3,203,San Francisco,Bubble Tea,Inexpensive
+9,Boba Butt Tea House,714 Kearny St,4.3,73,San Francisco,Bubble Tea,Inexpensive
+10,Yifang Taiwan Fruit Tea,870 Washington St,4.3,253,San Francisco,Bubble Tea,Inexpensive
+11,Mr & Mrs Tea House,544 Clement St,4.2,102,San Francisco,Bubble Tea,Inexpensive
+12,BB Tea,1314 Noriega St,4.2,89,San Francisco,Bubble Tea,Inexpensive
+13,CoCo Fresh Tea & Juice,652 Market St,4.2,136,San Francisco,Bubble Tea,
+14,Brew Cha,3420 18th St #001,4.4,163,San Francisco,Bubble Tea,Inexpensive
+15,Teaspoon,2125 Polk St,4.5,360,San Francisco,Bubble Tea,Inexpensive
+16,Boba Guys Potrero,1002 16th St,4.5,539,San Francisco,Bubble Tea,Inexpensive
+17,Boba Guys Fillmore,1522 Fillmore St,4.5,600,San Francisco,Bubble Tea,Inexpensive
+18,District Tea,2154 Mission St,4.3,87,San Francisco,Bubble Tea,Inexpensive
+19,Foam Tea House,1745 Taraval St,4.6,87,San Francisco,Cafe,Inexpensive
+20,Boba Guys NOPA,836 Divisadero St,4.6,179,San Francisco,Bubble Tea,Inexpensive
+21,Urban Ritual Cafe,488 Fell St,4.5,281,San Francisco,Bubble Tea,Inexpensive
+22,Plentea,341 Kearny St,4.5,829,San Francisco,Bubble Tea,Inexpensive
+23,Gong Cha,272 O'Farrell St,4.1,128,San Francisco,Bubble Tea,Inexpensive
+24,Purple Kow,3620 Balboa St,4.2,719,San Francisco,Bubble Tea,Inexpensive
+25,Happy Lemon,99 Drumm St,4.8,38,San Francisco,Bubble Tea,Inexpensive
+26,Tpumps,1916 Irving St,4.4,522,San Francisco,Bubble Tea,Inexpensive
+27,Boba Gen,260 5th St,4.2,99,San Francisco,Bubble Tea,Moderate
+28,LITTLE SWEET,1253 9th Ave,4.5,171,San Francisco,Bubble Tea,Inexpensive
+29,E Tea,839 Kearny St,4.3,78,San Francisco,Bubble Tea,Inexpensive
+30,i-Tea Kearny,253 Kearny St,4.2,330,San Francisco,Bubble Tea,Inexpensive
+31,Tea Hut,2815 California St,4.3,231,San Francisco,Bubble Tea,Inexpensive
+32,Tea & Others,250 Divisadero St,4.6,97,San Francisco,Bubble Tea,Moderate
+33,Bambū Desserts & Drinks,6050 Geary Blvd,4.3,236,San Francisco,Cafe,Inexpensive
+34,SimplexiTea,12 10th St,4.5,71,San Francisco,Bubble Tea,Inexpensive
+35,LITTLE SWEET,75 O'Farrell St,4.1,53,San Francisco,Bubble Tea,Inexpensive
+36,iTea,2150 Irving St,4.3,241,San Francisco,Bubble Tea,Inexpensive
+37,Sharetea,865 Market St,3.8,47,San Francisco,Bubble Tea,Inexpensive
+38,Happy Lemon,1320 4th St,4.8,71,San Francisco,Bubble Tea,Inexpensive
+39,Panda Boba,2763 San Bruno Ave,4.5,60,San Francisco,Tea house,Inexpensive
+40,Lilikoi,3108 Fillmore St,4.4,54,San Francisco,Bubble Tea,Inexpensive
+41,E Tea,5344 Geary Blvd,4.2,77,San Francisco,Bubble Tea,Inexpensive
+42,Quickly,2800 Leavenworth St Ste A11,3.7,59,San Francisco,Bubble Tea,Inexpensive
+43,Pink Pink Tea Shoppe,865 Market St #FE10,4.2,58,San Francisco,Bubble Tea,Inexpensive
+44,Bubble Queen,219 King St,4.2,20,San Francisco,Bubble Tea,
+45,TJ Cups,2437 Noriega St,4.6,153,San Francisco,Bubble Tea,Inexpensive
+46,1011 Sip TEA SF,2127 Irving St,4.5,39,San Francisco,Cafe,Inexpensive
+47,Honey B,2201 Clement St,4.2,127,San Francisco,Bubble Tea,Inexpensive
+48,Honeybear Boba,801 22nd St,4.6,98,San Francisco,Bubble Tea,
+49,My Cup of Tea,2666 Ocean Ave,4.3,195,San Francisco,Bubble Tea,Inexpensive
+50,Tea Square,900 North Point St,2.3,9,San Francisco,Bubble Tea,
+51,Mr. Green Bubble - Ocean SF,1330 Ocean Ave,3.9,29,San Francisco,Bubble Tea,Inexpensive
+52,TS Boba,4754 Mission St,4.5,13,San Francisco,Bubble Tea,
+53,Happy Lemon,425 Mission St #105,4.2,13,San Francisco,Bubble Tea,Inexpensive
+54,Asha Tea House,17 Kearny St,4.6,506,San Francisco,Tea house,Inexpensive
+55,Steep Creamery & Tea,270 Brannan St,4.4,237,San Francisco,Ice Cream,Inexpensive
+56,Teazo,1050 Taraval St,3.7,53,San Francisco,Bubble Tea,Inexpensive
+57,Cuppa,2810 Diamond St,4.2,111,San Francisco,Bubble Tea,Inexpensive
+58,Glazier Rolled Ice Cream & Boba Tea,414 Sutter St,4.4,144,San Francisco,Bubble Tea,Inexpensive
+59,Virtual Teakup,601 Mission Bay Boulevard North,4.4,10,San Francisco,Bubble Tea,
+60,Project Boba,90 Charter Oak Ave,4.2,13,San Francisco,Tea house,Inexpensive
+61,Quickly,"2116 Irving Street (Cross, 22nd Ave Asian Cafe Chain)",3.8,119,San Francisco,Asian,Inexpensive
+62,Teapenter,1518 Irving St,4.3,51,San Francisco,Tea house,Inexpensive
+63,Indulgence Tea Bar,1490 Ocean Ave Suite #1,4.2,79,San Francisco,Bubble Tea,Inexpensive
+64,Tea Plus,2541 San Bruno Ave,3.8,84,San Francisco,Bubble Tea,Inexpensive
+65,Bobaville,3811 Noriega St,4.6,9,San Francisco,Bubble Tea,
+66,Pit Stop Boba Shop,2300 Westborough Blvd,4.5,156,San Francisco,Bubble Tea,Inexpensive
+67,Tancca,776 Broadway,4.2,64,San Francisco,Tea house,Inexpensive
+68,Tea Plus Tea Bar,4482 Mission St,4.3,64,San Francisco,Bubble Tea,Inexpensive
+69,Quickly,3251 20th Ave #160,3.4,75,San Francisco,Bubble Tea,Inexpensive
+70,b&b - Banh Mi & Boba,1634 Irving St,4.3,127,San Francisco,Sandwich,Inexpensive
+71,Milk Tea Lab,839 Irving St,4.1,24,San Francisco,Bubble Tea,Inexpensive
+72,Ha Tea,200 6th Ave,4.0,22,San Francisco,Bubble Tea,Inexpensive
+73,Love Tea,601 Broadway,4.3,56,San Francisco,Bubble Tea,
+74,Royaltea USA,605 Kearny St,4.0,5,San Francisco,Cafe,Inexpensive
+75,Hi Tea,2591 San Bruno Ave,4.2,48,San Francisco,Bubble Tea,
+76,TS cafe,4754 Mission St,4.5,36,San Francisco,Bubble Tea,Inexpensive
+77,Yifang Taiwan Fruit Tea,645 Irving St,4.9,54,San Francisco,Bubble Tea,Inexpensive
+78,Mura Tea Shoppe,3109 24th St,4.7,14,San Francisco,Tea house,
+79,Wonderful Foods,2035 Irving St,4.5,149,San Francisco,Cafe,Inexpensive
+80,Refresh,1181 Ocean Ave,4.1,149,San Francisco,Tea house,Inexpensive
+81,Five Degree Tea House,2527 San Bruno Ave,4.2,81,San Francisco,Bubble Tea,Inexpensive
+82,Milk Tea Lab,630 El Camino Real,4.4,161,San Francisco,Bubble Tea,Inexpensive
+83,Sweet House,3512 Balboa St,4.1,39,San Francisco,Bubble Tea,
+84,YiFang Taiwan Fruit Tea,3251 20th Ave,3.9,107,San Francisco,Cafe,
+85,Quickly,2288 Westborough Blvd # 102,3.6,104,San Francisco,Bubble Tea,Inexpensive
+86,SK Tea,2250 Irving St,4.6,9,San Francisco,Bubble Tea,Inexpensive
+87,Ha Tea,1170 Powell St,4.1,18,San Francisco,Tea house,Inexpensive
+88,Nameless Tea & Coffee,981 Geneva Ave,4.3,42,San Francisco,Bubble Tea,Inexpensive
+89,Tea Hut,1541 Sloat Blvd,4.2,39,San Francisco,Cafe,
+90,Belly Good Cafe & Crepes,1737 Post St #393,4.5,230,San Francisco,Bubble Tea,Inexpensive
+91,Eggettes,639 El Camino Real,4.3,230,San Francisco,Bubble Tea,Inexpensive
+92,Mr. T Cafe,4689 Mission St,4.4,137,San Francisco,Cafe,Inexpensive
+93,BeauTea,375 Grand Ave,4.1,99,San Francisco,Dessert shop,Inexpensive
+94,TenRen's Tea,550 Grant Ave,4.4,44,San Francisco,Bubble Tea,
+95,Coco3,117 Hickey Blvd,4.5,31,San Francisco,Bubble Tea,
+96,Sweetheart Cafe,909 Grant Ave,4.2,171,San Francisco,Coffee shop,Inexpensive
+97,LITTLE SWEET,1660 Geary Blvd Unit B,4.7,3,San Francisco,Bubble Tea,Inexpensive
+98,T Phoenix,832 Clement St,4.4,9,San Francisco,Asian,Inexpensive
+99,Happy Cow Creamery & Tea,2291 3rd St,4.3,57,San Francisco,Ice Cream,Inexpensive
+100,Eggettes,3136 Noriega St,4.4,183,San Francisco,Hong Kong style fast food restaurant,Inexpensive
+101,Aura Tea,121 Spear St Suite B05,4.8,22,San Francisco,Cafe,
+102,FrosTea Boba Tea and Shaved Snow Cafe,6178 Mission St,4.0,128,San Francisco,Bubble Tea,Inexpensive
+103,Lady Luck Cafe,956 Grant Ave,4.6,18,San Francisco,Cafe,
+104,Little Heaven,2348 Mission St,4.7,126,San Francisco,Bubble Tea,Inexpensive
+105,Cafe Hana,1737 Post St #368,4.3,52,San Francisco,Coffee shop,Inexpensive
+106,Truedan Skyline,79 Skyline Plaza,4.4,81,San Francisco,Bubble Tea,Inexpensive
+107,Bobaville,346 Gellert Blvd,4.4,141,San Francisco,Cafe,
+108,Coffee Cantata,1708 Haight St,4.2,113,San Francisco,Bubble Tea,Inexpensive
+109,fifty/fifty,3157 Geary Blvd,4.5,248,San Francisco,Coffee shop,Inexpensive
+110,Matcha Cafe Maiko,756 Grant Ave,4.8,106,San Francisco,Dessert shop,Inexpensive
+111,Morning Brew Coffee & Tea,401 Sansome St,3.7,26,San Francisco,Cafe,Moderate
+112,Wake Cup,1476 Haight St,4.7,38,San Francisco,Cafe,
+113,The Burrow,109 Visitacion Ave #1560,4.6,112,San Francisco,Bubble Tea,Inexpensive
+114,The Posh Bagel,4 Embarcadero Ctr,4.2,67,San Francisco,Bubble Tea,Inexpensive
+115,Quickly,1212 El Camino Real suite A,3.7,124,San Francisco,Bubble Tea,Inexpensive
+116,ENOUGH TEA AND COFFEE,22 4th Street Ground Floor,4.4,84,San Francisco,Coffee shop,Inexpensive
+117,Truedan Westlake,500 Westlake Center,4.1,67,San Francisco,Bubble Tea,
+118,Mycha,"108 N State St, Chicago Pedway System",4.4,23,Chicago,Bubble Tea,
+119,Vivi Bubble Tea,333 S State St,4.3,593,Chicago,Bubble Tea,Inexpensive
+120,岩茶Elitea (Elite Boba),2002 S Wentworth Ave b9,4.3,191,Chicago,Bubble Tea,Inexpensive
+121,TE’AMO Boba Bar,520 N Michigan Ave Suite 421,4.1,247,Chicago,Bubble Tea,Moderate
+122,Kung Fu Tea,2126B S Archer Ave,4.4,1043,Chicago,Bubble Tea,Inexpensive
+123,Gathers Tea Bar,1311 W Taylor St,4.8,110,Chicago,Bubble Tea,
+124,"TBaar Bubble Tea, Juice, Smoothies",2234 S Wentworth Ave,4.3,566,Chicago,Bubble Tea,Inexpensive
+125,Te'amo Boba Bar,2169 A S China Pl,4.4,148,Chicago,Bubble Tea,Moderate
+126,Uni Uni Bubble Tea 攸攸茶,2171 S China Pl A,4.5,211,Chicago,Bubble Tea,Inexpensive
+127,B.I.Tea and Dim Sum,131 N Clinton St,4.4,62,Chicago,Bubble Tea,Inexpensive
+128,Te'amo Boba Bar,1115 E 55th St,4.3,210,Chicago,Bubble Tea,Inexpensive
+129,Hello Jasmine,2026 S Clark St unit c,4.5,299,Chicago,Bubble Tea,Moderate
+130,Tsaocaa,2026 S Clark St unit g,4.4,274,Chicago,Cafe,
+131,Tea Monster,"109 N Dearborn Street lower level of the mall,Straight to blue line station,by the ticket machine",5.0,56,Chicago,Bubble Tea,Inexpensive
+132,Bingo Tea,2150A S Archer,4.5,303,Chicago,Tea house,Inexpensive
+133,Tai Chi Bubble Tea,1158 W Taylor St,4.4,110,Chicago,Bubble Tea,Inexpensive
+134,Boba tea & Taiwanese food,2026 S Clark St,4.5,2,Chicago,Bubble Tea,
+135,Eat Me Milk Me Coffee & Tea,1111 W Randolph St,4.4,144,Chicago,Bubble Tea,Inexpensive
+136,Bubblelicious Bubble Tea Millennium Park Location,179 Michigan Ave,3.7,36,Chicago,Bubble Tea,Inexpensive
+137,Jay's Bubble Tea Cafe,1856 S Ashland Ave,4.9,28,Chicago,Bubble Tea,
+138,Ten Cafe,3308 N Western Ave,4.7,113,Chicago,Bubble Tea,
+139,Pure Tea,2105 S Jefferson St unit B,4.5,21,Chicago,Bubble Tea,Inexpensive
+140,Tao Tea,5002 N Broadway,4.7,174,Chicago,Bubble Tea,Moderate
+141,The Tea Spot 茶迹,2252 S Canal St Unit 226,4.8,31,Chicago,Bubble Tea,Inexpensive
+142,Hello Jasmine-Lincoln Park,953 W Webster Ave,4.3,178,Chicago,Bubble Tea,Inexpensive
+143,He Cha,2101A S China Pl,0.0,0,Chicago,Bubble Tea,
+144,Tai Chi Bubble Tea,6800 N Sheridan Rd,4.5,205,Chicago,Bubble Tea,Inexpensive
+145,MK Boba,3341 N Lincoln Ave,5.0,10,Chicago,Bubble Tea,
+146,Tsaocaa Lincoln Park,1337 W Fullerton Ave,4.8,40,Chicago,Bubble Tea,
+147,Kung Fu Tea,4925 N Broadway Suite D,4.3,281,Chicago,Bubble Tea,Inexpensive
+148,"TBaar - Bubble Tea, Juice, Smoothies and More!",1223 W Devon Ave,4.6,177,Chicago,Bubble Tea,Inexpensive
+149,Tea Ninja,3139 N Broadway,3.9,129,Chicago,Bubble Tea,Inexpensive
+150,Mycha,828 S Wolcott,0.0,0,Chicago,Bubble Tea,
+151,Living Water Tea House,1453 W Taylor St,4.8,90,Chicago,Tea house,Inexpensive
+152,ALOHA,5115 N Lincoln Ave,0.0,0,Chicago,Bubble Tea,
+153,Uni Uni 攸攸茶 Uni Spice 攸攸堂 Uptown,1130 W Argyle St,4.5,77,Chicago,Bubble Tea,Inexpensive
+154,Bambu,5010 N Broadway,4.5,297,Chicago,Dessert shop,Inexpensive
+155,TIGER SUGAR,2116 S Archer Ave,0.0,0,Chicago,Bubble Tea,
+156,Gosa Tea,4048 N Narragansett Ave,4.8,56,Chicago,Bubble Tea,
+157,Outdoor Cafe,3257 W Bryn Mawr Ave,4.5,281,Chicago,Bubble Tea,Inexpensive
+158,Java & Mug,3247 W Bryn Mawr Ave,4.6,295,Chicago,Coffee shop,Inexpensive
+159,KURIMU,1159 W Taylor St,4.5,489,Chicago,Ice Cream,
+160,Tea%,57 E 11th St,4.7,34,Chicago,Coffee shop,Inexpensive
+161,L'OURS BAKERY CAFE,1424 W Taylor St,4.4,293,Chicago,Bubble Tea,Inexpensive
+162,Tea Ninja,5220 Fashion Outlets Way Suite 8030,4.2,62,Chicago,Bubble Tea,Inexpensive
+163,Happy Lemon,1607 Chicago Ave,4.3,41,Chicago,Bubble Tea,
+164,Saint's Alp Teahouse,2157 S China Pl,4.4,359,Chicago,Chinese,Inexpensive
+165,Taiyaki Chicago,2468 N Clark St,4.3,221,Chicago,Dessert shop,Inexpensive
+166,Happy Lemon,818 W Fullerton Ave,3.7,16,Chicago,Bubble Tea,
+167,Flamingo Tea,843 W Belmont Ave,0.0,0,Chicago,Bubble Tea,
+168,Taipei Cafe,820 W Belmont Ave,0.0,0,Chicago,Bubble Tea,
+169,Sweet Bean,1152 S Wabash Ave,4.9,120,Chicago,Coffee shop,
+170,Meet Fresh 鲜芋仙,2026 S Clark St Unit A,3.7,778,Chicago,Cafe,Moderate
+171,Tasty Freeze - Ice Cream & Bubble Tea,520 Chicago Ridge Mall,4.4,149,Chicago,Bubble Tea,
+172,MILK+T,310 E 2nd St,4.5,669,Los Angeles,Bubble Tea,Inexpensive
+173,Boba Guys - Rideback Ranch,1670 Beverly Blvd,4.4,268,Los Angeles,Bubble Tea,Inexpensive
+174,Kung Fu Tea,740 S Western Ave #117/#118,4.4,218,Los Angeles,Bubble Tea,Inexpensive
+175,It's Boba Time Vermont,701 S Vermont Ave,4.5,1330,Los Angeles,Bubble Tea,Inexpensive
+176,It's Boba Time,6660 Sunset Blvd suite q,4.4,411,Los Angeles,Bubble Tea,Inexpensive
+177,Pearl's Finest Teas,523 N Fairfax Ave,4.5,242,Los Angeles,Bubble Tea,Inexpensive
+178,Dragon Boba,528 S Western Ave,4.3,148,Los Angeles,Bubble Tea,Moderate
+179,Tan-Cha,"3401-3413, W 6th St Modern Cafe",4.2,213,Los Angeles,Bubble Tea,
+180,WUSHILAND BOBA WCC,10250 Santa Monica Blvd Ste 2770,4.3,76,Los Angeles,Bubble Tea,
+181,I Love Boba,3512 W 8th St,4.5,155,Los Angeles,Bubble Tea,Inexpensive
+182,Volcano Tea House,2111 Sawtelle Blvd,4.5,504,Los Angeles,Bubble Tea,Inexpensive
+183,Little Fluffy Head Cafe,203 W 7th St,4.4,201,Los Angeles,Bubble Tea,Inexpensive
+184,Bubble U,843 N Broadway,4.5,361,Los Angeles,Bubble Tea,Inexpensive
+185,It's Boba Time,3450 W 6th St UNIT 111,4.2,425,Los Angeles,Bubble Tea,Inexpensive
+186,Mr. BOBA,3805 W 6th St,4.3,120,Los Angeles,Bubble Tea,Inexpensive
+187,Yifang Taiwan Fruit Tea - Koreatown,3726 W 6th St,4.6,101,Los Angeles,Bubble Tea,Inexpensive
+188,Tea Maru - Housemade Boba,724 S Spring St #107,4.2,39,Los Angeles,Bubble Tea,Inexpensive
+189,It's Boba Time,372 E 2nd St,4.0,177,Los Angeles,Bubble Tea,Inexpensive
+190,Pot of Cha,3013 S Figueroa St,4.6,205,Los Angeles,Bubble Tea,Inexpensive
+191,Boba Bear,414 S Western Ave,4.1,361,Los Angeles,Cafe,Inexpensive
+192,Sharetea,1055 Broxton Ave,4.6,111,Los Angeles,Bubble Tea,Inexpensive
+193,Factory Tea Bar,2700 S Figueroa St #105,4.3,25,Los Angeles,Bubble Tea,Inexpensive
+194,Ding Tea Hollywood,5265 Hollywood Blvd,4.4,81,Los Angeles,Bubble Tea,Inexpensive
+195,Gong Cha,318 E 2nd St A,4.4,181,Los Angeles,Bubble Tea,Inexpensive
+196,its boba time,508 W 7th St,5.0,8,Los Angeles,Cafe,
+197,Tea N’ Me,2256 Colorado Blvd #108,4.5,134,Los Angeles,Bubble Tea,Inexpensive
+198,Aqua 9+ H2bOba,"100, 1/2 S Vermont Ave",4.5,8,Los Angeles,Bubble Tea,
+199,It's Boba Time Dewey,2848 W Olympic Blvd,4.4,324,Los Angeles,Bubble Tea,Inexpensive
+200,Boba Story,701 S Western Ave,4.2,212,Los Angeles,Tea house,Inexpensive
+201,One Zo Boba - Beverly Center,8500 Beverly,3.9,15,Los Angeles,Bubble Tea,Inexpensive
+202,Tiger Sugar,3465 W 6th St STE 120,4.3,55,Los Angeles,Bubble Tea,
+203,It's Boba Time,125 N Western Ave,4.2,325,Los Angeles,Bubble Tea,Inexpensive
+204,It's Boba Time,704 N Vermont Ave,4.6,455,Los Angeles,Bubble Tea,Inexpensive
+205,TeaMorrow Teahouse,331 1st St,4.7,37,Los Angeles,Bubble Tea,
+206,I Love Boba,1001 Vermont Ave,4.2,197,Los Angeles,Bubble Tea,Inexpensive
+207,It’s Boba Time,1001 S Alvarado St,4.5,573,Los Angeles,Bubble Tea,Inexpensive
+208,It's Boba Time,3617 Vermont Ave #3945,4.4,774,Los Angeles,Cafe,Inexpensive
+209,Yifang Taiwan Fruit Tea - Sawtelle,2010 Sawtelle Blvd,4.6,94,Los Angeles,Bubble Tea,Inexpensive
+210,Junbi - Westwood,10967 Weyburn Ave,4.5,217,Los Angeles,Bubble Tea,Inexpensive
+211,Sunright Tea Studio - Little Tokyo,134 S Central Ave,4.3,70,Los Angeles,Bubble Tea,Inexpensive
+212,It's Boba Time Highland,5001 Wilshire Blvd Unit 105,4.3,244,Los Angeles,Coffee shop,Inexpensive
+213,Percolate,1201 S Hope St Suite 101,4.7,31,Los Angeles,Bubble Tea,Inexpensive
+214,It's Boba Time (St. Andrews + Sunset),5549 Sunset Blvd,4.4,109,Los Angeles,Bubble Tea,Inexpensive
+215,Little Fluffy Head Cafe - Sawtelle,11301 W Olympic Blvd #105,3.9,10,Los Angeles,Bubble Tea,
+216,Quickly,750 N Hill St,4.2,168,Los Angeles,Bubble Tea,Inexpensive
+217,Noble Tea,11307 Mississippi Ave,4.1,188,Los Angeles,Bubble Tea,Inexpensive
+218,Boba Zzing,954 N Western Ave,4.7,15,Los Angeles,Bubble Tea,
+219,SHARP TEA,123 Astronaut Ellison S Onizuka St #101d,4.2,53,Los Angeles,Bubble Tea,Inexpensive
+220,Hey Hey,1555 Sunset Blvd,4.5,223,Los Angeles,Bubble Tea,Inexpensive
+221,It's Boba Time,2255 Colorado Blvd,4.6,438,Los Angeles,Bubble Tea,Inexpensive
+222,Teaspoon,1947 Sawtelle Blvd Suite E,4.9,229,Los Angeles,Bubble Tea,Inexpensive
+223,Sunright Tea Studio - Sawtelle,2206 Sawtelle Blvd,4.5,49,Los Angeles,Bubble Tea,Inexpensive
+224,Just Boba Tea House,952 Gayley Ave,4.5,19,Los Angeles,Bubble Tea,
+225,Boba Me,4730 Hollywood Blvd,4.6,36,Los Angeles,Bubble Tea,Inexpensive
+226,Boba Sound,1144 S Western Ave,4.9,15,Los Angeles,Bubble Tea,
+227,Boba Time,11207 National Blvd,3.0,210,Los Angeles,Bubble Tea,Inexpensive
+228,Lucky Leaf Boba Tea House,5217 Wilshire Blvd,5.0,12,Los Angeles,Bubble Tea,
+229,Dana Café Boba,4270 S Vermont Ave A,4.4,209,Los Angeles,Cafe,Inexpensive
+230,Percolate,11870 Santa Monica Blvd #111,4.6,215,Los Angeles,Bubble Tea,Inexpensive
+231,Boba Lab,711 Pico Blvd,4.0,117,Los Angeles,Bubble Tea,Inexpensive
+232,BOBA square,621 S Western Ave Suite 102,4.2,34,Los Angeles,Cafe,
+233,Ding Tea Eagle Rock,2114 Colorado Blvd,4.2,44,Los Angeles,Bubble Tea,Inexpensive
+234,It's Boba Time,10946 Weyburn Ave,4.5,127,Los Angeles,Bubble Tea,Inexpensive
+235,CoCo Fresh Tea and Juice,735 S Figueroa St STE 119,3.6,24,Los Angeles,Bubble Tea,Inexpensive
+236,chun feng sugar,600 S New Hampshire Ave f1,4.4,33,Los Angeles,Dessert shop,Inexpensive
+237,BOBA HIVE,268 S Rampart Blvd,4.9,8,Los Angeles,Bubble Tea,
+238,Dingle Berries on 3rd,8036 W 3rd St,4.6,29,Los Angeles,Bubble Tea,Inexpensive
+239,It’s Boba Time,2908 Los Feliz Blvd,4.6,11,Los Angeles,Coffee shop,Inexpensive
+240,House Of Boba,5930 S Main St #102,4.4,151,Los Angeles,Thai,
+241,Sip N Dip,1830 W 8th St Unit #B,4.7,23,Los Angeles,Bubble Tea,Inexpensive
+242,Guilt Tea,3300 W 6th St Ste4,4.4,9,Los Angeles,Bubble Tea,
+243,Boba Tea & Me 24hr Kiosk,506 S Grand Ave,5.0,4,Los Angeles,Bubble Tea,
+244,Nectar Boba Bar,268 S Rampart Blvd,5.0,10,Los Angeles,Bubble Tea,
+245,Alfred Tea Room,705 N Alfred St,4.3,310,Los Angeles,Bubble Tea,Moderate
+246,Cup O' Joy,3016 S Figueroa St,4.5,366,Los Angeles,Bubble Tea,Inexpensive
+247,Boba My Tea,18429 Nordhoff St,4.5,322,Los Angeles,Tea house,Inexpensive
+248,Bohemia Tea & Coffee,7525 Sunset Blvd,4.6,160,Los Angeles,Bubble Tea,Inexpensive
+249,Boba Snow House,17030 Devonshire St,4.6,252,Los Angeles,Tea house,Inexpensive
+250,Trà Space,4012 Tilden Ave,4.3,66,Los Angeles,Bubble Tea,
+251,Mini Monster Universal CityWalk,1000 Universal Hollywood Dr Suite 143,4.4,86,Los Angeles,Bubble Tea,
+252,Latea Bubble Tea Lounge,3851 Main St,4.6,82,Los Angeles,Tea house,Inexpensive
+253,Macchiato,418 W Pico Blvd,4.3,32,Los Angeles,Bubble Tea,
+254,PLAY KPOP CAFE,333 S Alameda St STE 103,4.6,19,Los Angeles,Bubble Tea,Inexpensive
+255,TEAPOP,5050 Vineland Ave,4.6,455,Los Angeles,Bubble Tea,Inexpensive
+256,Boba Cha Cha,12906 Victory Blvd,4.6,159,Los Angeles,Cafe,Inexpensive
+257,It's Boba Time - 3rd St,8250 W 3rd St Unit 106,4.0,3,Los Angeles,Restaurant,
+258,Ten Ren's Tea Time,727 N Hill St #136,4.0,50,Los Angeles,Tea store,
+259,The Boba Cafe,22941 Ventura Blvd,4.4,92,Los Angeles,Bubble Tea,
+260,Boba Truck Cafe,8323 Reseda Blvd Unit 103,4.7,147,Los Angeles,Cafe,Inexpensive
+261,Boba Loca,12901 Sherman Way #7324,4.1,136,Los Angeles,Cafe,Inexpensive
+262,Half & Half Tea House MP,141 N Atlantic Blvd #112,4.4,879,Los Angeles,Bubble Tea,Inexpensive
+263,Boba Bear,12105 Santa Monica Blvd,3.9,110,Los Angeles,Hookah bar,
+264,Boba Guys NoHo,11135 Magnolia Blvd Unit 170,4.6,51,Los Angeles,Bubble Tea,Inexpensive
+265,Bounce Boba Lounge,9545 Reseda Blvd #17,4.5,373,Los Angeles,Bubble Tea,Inexpensive
+266,Boba Tea & Me,1328 Wilshire Blvd,4.2,134,Los Angeles,Bubble Tea,Inexpensive
+267,Mini's Croissants & Boba,9843 Topanga Canyon Blvd,4.7,215,Los Angeles,Cafe,Inexpensive
+268,One Zo,500 N Atlantic Blvd #168,4.1,241,Los Angeles,Bubble Tea,Inexpensive
+269,Isshin Ramen & Boba,6775 Santa Monica Blvd #7,4.7,19,Los Angeles,Bubble Tea,Inexpensive
+270,Bon Bon Tea House,9663 Reseda Blvd,4.7,755,Los Angeles,Tea house,Inexpensive
+271,Labobatory,819 W Las Tunas Dr,4.4,218,Los Angeles,Tea house,Inexpensive
+272,Tea Brick,501 W Garvey Ave #105,4.5,451,Los Angeles,Bubble Tea,Inexpensive
+273,It's Boba Time,19600 Plummer St #600,4.6,203,Los Angeles,Bubble Tea,Inexpensive
+274,Labobatory,165 S De Lacey Ave Suite 1049,4.7,37,Los Angeles,Tea house,Inexpensive
+275,Bubble Boba,2829 Ocean Park Blvd,4.4,104,Los Angeles,Bubble Tea,Inexpensive
+276,Meet Fresh,10923 Weyburn Ave,4.1,80,Los Angeles,Bubble Tea,Inexpensive
+277,Boba Loca,6411 Sepulveda Blvd # 1U,4.3,221,Los Angeles,Cafe,Inexpensive
+278,bobaboba,10369 Balboa Blvd,4.6,80,Los Angeles,Bubble Tea,Inexpensive
+279,Jungle Boba,123 Astronaut Ellison S Onizuka St #308,0.0,0,Los Angeles,Hookah bar,
+280,Twinkle Tea,406 E Valley Blvd,4.5,330,Los Angeles,Tea house,Inexpensive
+281,Tpumps,524 S Lake Ave,4.5,490,Los Angeles,Bubble Tea,Inexpensive
+282,Bon Bon Tea House,8316 Winnetka Ave,4.7,325,Los Angeles,Cafe,Inexpensive
+283,Sip Boba Lounge,123 Astronaut Ellison S Onizuka St #301,0.0,0,Los Angeles,Lounge,
+284,Boba Cult,,0.0,0,Los Angeles,Gift Shop,
+285,Happy Cup,104 N Glendale Ave,4.5,27,Los Angeles,Bubble Tea,
+286,Tea Maru - Housemade Boba,709 W Las Tunas Dr,4.3,250,Los Angeles,Bubble Tea,Inexpensive
+287,Gourmet Coffee,505 Flower St,4.2,5,Los Angeles,Tea house,
+288,Organic Coffee Boba Tea,7273 Melrose Ave,0.0,0,Los Angeles,,
+289,Bobacraft Cafe,410 W Main St,4.6,93,Los Angeles,Bubble Tea,Inexpensive
+290,Kokoroll Cafe Torrance,22749 Hawthorne Blvd,4.4,38,Los Angeles,Bubble Tea,
+291,OinkMoo Tea Bar,380 S Lake Ave Unit #107,4.3,76,Los Angeles,Bubble Tea,Inexpensive
+292,Bubble Republic,800 W Las Tunas Dr #100,4.3,193,Los Angeles,Tea house,Inexpensive
+293,Milkcow Cafe - Ice Cream | Tea | Dessert,801 S Hope St B,4.6,53,Los Angeles,Ice Cream,Inexpensive
+294,Wings N Boba,1827 S Vermont Ave,4.2,6,Los Angeles,Chicken Wings,
+295,MILK+T Boba Classes,,5.0,11,Los Angeles,,
+296,Boba Ave,2089 S Atlantic Blvd unit a,4.4,308,Los Angeles,Bubble Tea,Inexpensive
+297,It's Boba Time,4821 Lankershim Blvd Unit C,4.3,12,Los Angeles,Bubble Tea,Inexpensive
+298,boba ave 8090,425 W Valley Blvd #101,4.3,138,Los Angeles,Bubble Tea,Inexpensive
+299,Boba Shop,Admiralty Way,1.0,1,Los Angeles,Tea house,
+300,Kyo Chun Chicken & Boba,928 S Western Ave #132,0.0,0,Los Angeles,,
+301,CoffeeWalk YogurtTalk,700 Flower,3.8,5,Los Angeles,Cafe,Inexpensive
+302,The Alley,301 W Valley Blvd #102,3.8,211,Los Angeles,Tea house,Inexpensive
+303,BoBaPOP Tea Bar,625 E Valley Blvd Ste L,4.4,148,Los Angeles,Bubble Tea,Inexpensive
+304,Bopomofo Cafe,841 W Las Tunas Dr,4.6,476,Los Angeles,Bubble Tea,
+305,7 Leaves Cafe Alhambra,151 N Garfield Ave,4.5,673,Los Angeles,Cafe,Inexpensive
+306,Tea Master Matcha Cafe and Green Tea Shop,450 E 2nd St,4.7,414,Los Angeles,Tea house,Inexpensive
+307,CHICHA San Chen - San Gabriel,301 W Valley Blvd #116,4.4,142,Los Angeles,Bubble Tea,
+308,o2 coffee,915 Vermont Ave #1/2,4.0,28,Los Angeles,Cafe,
+309,Urth Caffe,459 S Hewitt St,4.5,4464,Los Angeles,Coffee shop,Moderate
+310,Bubble Puff & Tea,1543 E Colorado Blvd,4.7,68,Los Angeles,Bubble Tea,Inexpensive
+311,Boba Ave 8090,140 Valley Blvd #118B,3.6,369,Los Angeles,Bubble Tea,Inexpensive
+312,Cantaloop Deserts. & Snacks,7095 Hollywood Blvd #106,4.0,85,Los Angeles,Fro-Yo,Inexpensive
+313,Cafe 70 Degrees,3863 Culver Center,4.4,359,Los Angeles,Cafe,Inexpensive
+314,Moon Rabbit,317 S Broadway,4.6,27,Los Angeles,Tea house,
+315,Cafe Take 5,328 1st St,4.3,29,Los Angeles,Coffee shop,
+316,Supa Coffee,1173 S Robertson Blvd,4.7,114,Los Angeles,Coffee shop,Inexpensive
+317,Motto Tea Cafe - Pasadena,100 W Green St,4.4,291,Los Angeles,Tea house,Inexpensive
+318,Tea-Do (Boston Chinatown),8 Tyler St,4.5,1035,Boston,Bubble Tea,Inexpensive
+319,Boba Me,1520 Tremont St,4.3,101,Boston,Bubble Tea,
+320,Vivi Bubble Tea Mass Ave,182 Massachusetts Ave,4.1,136,Boston,Bubble Tea,
+321,Sweet Waffles + Boba,18 Hudson St,4.8,387,Boston,Bubble Tea,
+322,Pin Ming,5 Beach St,4.5,139,Boston,Bubble Tea,Inexpensive
+323,Kung Fu Tea,66 Kneeland St,4.5,391,Boston,Bubble Tea,Inexpensive
+324,Shinmio Tea,900 Beacon St,4.5,90,Boston,Bubble Tea,Inexpensive
+325,LimeRed Teahouse (Boston),1092 Commonwealth Avenue,4.6,221,Boston,Bubble Tea,Inexpensive
+326,Happy Lemon Boston,417 Washington St,4.4,167,Boston,Cafe,Inexpensive
+327,Sweet Boba,11 William C Kelly Square,4.8,102,Boston,Bubble Tea,
+328,Gong Cha,40-44 Harrison Ave,4.4,491,Boston,Bubble Tea,Inexpensive
+329,TeaMoji,3 N Beacon St,4.6,189,Boston,Bubble Tea,Inexpensive
+330,TBaar,32 Kneeland St,4.5,114,Boston,Bubble Tea,Inexpensive
+331,Tiger Sugar,181 Harvard Ave,4.5,153,Boston,Bubble Tea,Inexpensive
+332,TIGER SUGAR,14 Tyler St,4.4,78,Boston,Bubble Tea,Inexpensive
+333,Kung Fu Tea,334 Massachusetts Ave,4.4,665,Boston,Bubble Tea,Inexpensive
+334,Coco Leaf on Newbury,303 Newbury St,4.4,122,Boston,Bubble Tea,Inexpensive
+335,CHA FEO,248 Newbury St,4.5,78,Boston,Cafe,Inexpensive
+336,Yi Fang Taiwan Fruit Tea,215 Newbury St 1st floor,4.5,69,Boston,Bubble Tea,Inexpensive
+337,Chatime NEU,333 Huntington Ave,3.9,115,Boston,Bubble Tea,Inexpensive
+338,One Zo,145 Brighton Ave,4.0,28,Boston,Bubble Tea,Inexpensive
+339,Chatime Chinatown,31 Harrison Ave,4.1,209,Boston,Bubble Tea,Inexpensive
+340,丸作 One Zo,83 Harrison Ave,3.9,71,Boston,Bubble Tea,Inexpensive
+341,Coco Leaf,1480 Dorchester Ave,4.7,410,Boston,Bubble Tea,
+342,Gong cha,281 Huntington Ave,4.6,19,Boston,Bubble Tea,Inexpensive
+343,Vivi Bubble Tea Brighton,364 Washington St,4.4,163,Boston,Bubble Tea,Moderate
+344,Ten One Tea House,279 Newbury St,4.3,132,Boston,Tea house,Inexpensive
+345,Teazzi Tea Shop,31 Harrison Ave,4.6,22,Boston,Bubble Tea,Inexpensive
+346,Bobo Café,,4.8,25,Boston,Closed,Inexpensive
+347,TBaar,1038 Beacon St,4.7,276,Boston,Bubble Tea,Inexpensive
+348,Gong Cha Dorchester,1472 Dorchester Ave,4.6,19,Boston,Bubble Tea,
+349,Royaltea Boston,23b Tyler St,4.3,202,Boston,Tea store,
+350,Mr. Tea,266 Newbury St,4.8,45,Boston,Bubble Tea,Inexpensive
+351,Cha Kung Fong & X.F Fried Chicken 茶工坊&炫风炸 ChinaTown,197 Harrison Ave,4.6,41,Boston,Bubble Tea,Inexpensive
+352,Reign Drink Lab,1370 Dorchester Ave,4.8,159,Boston,Coffee shop,
+353,Möge Tee Allston,164 Brighton Ave,4.5,40,Boston,Bubble Tea,Inexpensive
+354,Kung Fu Tea,131 Harvard Ave,4.3,443,Boston,Bubble Tea,Inexpensive
+355,FRUITY,77 Harvard Ave,4.5,58,Boston,Bubble Tea,Inexpensive
+356,Gong Cha,154 Harvard Ave,4.3,220,Boston,Bubble Tea,Inexpensive
+357,Kung Fu Tea,1 Brighton Ave,3.4,39,Boston,Bubble Tea,Inexpensive
+358,Sweet Sip,285 Adams St,4.6,195,Boston,Bubble Tea,Inexpensive
+359,Love Art Sushi,1 Haviland St,4.5,533,Boston,Bubble Tea,Inexpensive
+360,Craft Boba Tea,6105 Greenville Ave,4.1,232,Dallas,Bubble Tea,
+361,Dottea,14902 Preston Rd,4.9,247,Dallas,Bubble Tea,Inexpensive
+362,Panda Tea,5521 Greenville Ave #108,4.6,264,Dallas,Bubble Tea,
+363,Kung Fu Tea,3001 Knox St #107A,4.4,216,Dallas,Bubble Tea,Inexpensive
+364,Bobaddiction,3014 Main,4.4,231,Dallas,Bubble Tea,Inexpensive
+365,Craft Boba Tea,408 N Bishop Ave # 104,4.1,128,Dallas,Bubble Tea,
+366,Fat Straws Bubble Tea (Alpha & Noel),5301 Alpha Rd #38,4.5,357,Dallas,Bubble Tea,Inexpensive
+367,Boba House Cafe,,4.4,94,Dallas,Closed,
+368,FENG CHA - Belt Line Dallas,5225 Belt Line Rd Ste 254,4.7,94,Dallas,Bubble Tea,Inexpensive
+369,Sharetea,13350 Dallas Pkwy #410,4.7,340,Dallas,Bubble Tea,Inexpensive
+370,Fat Straws Bubble Tea (Forest),11810 Preston Rd #150,4.5,443,Dallas,Bubble Tea,Inexpensive
+371,Royal I.T. Cafe,9100 N Central Expy #149,4.4,296,Dallas,Cafe,Moderate
+372,Gong Cha Dallas,11613 N Central Expy Ste 106A,4.7,94,Dallas,Bubble Tea,Inexpensive
+373,FENG CHA - Greenville Dallas,1917 Greenville Ave #130,4.8,57,Dallas,Bubble Tea,Inexpensive
+374,Craft Boba Tea,320 Singleton Blvd #180,4.4,19,Dallas,Bubble Tea,
+375,Squishies Bubble Tea,9850 Walnut Hl Ln Suite 203,4.8,42,Dallas,Bubble Tea,
+376,Boba Tea & Treats,4135 Belt Line Rd,4.3,319,Dallas,Bubble Tea,
+377,Lt Boba,,0.0,0,Dallas,Cafe,
+378,9 Rabbits Bakery,2546 Royal Ln,4.5,936,Dallas,Bakery,Inexpensive
+379,Boba Latte,115 S Greenville Ave # 113,4.4,714,Dallas,Bubble Tea,Inexpensive
+380,Chelsea Corner,4830 McKinney Ave,4.4,690,Dallas,American,Moderate
+381,AS Donuts & Boba Tea,9410 Walnut St,4.7,93,Dallas,Donuts,Inexpensive
+382,Ethen Foods USA Inc,1750 Empire Central ste g,5.0,5,Dallas,Warehouse,
+383,Fat Straws Bubble Tea,1251 W Campbell Rd,4.6,268,Dallas,Bubble Tea,Inexpensive
+384,Happy Lemon,169 N Plano Rd,4.3,79,Dallas,Bubble Tea,Inexpensive
+385,Fruitealicious Boba Tea,2150 N Josey Ln #100,4.5,361,Dallas,Bubble Tea,Inexpensive
+386,Sharetea,1386 E Belt Line Rd,4.3,250,Dallas,Bubble Tea,Inexpensive
+387,TocoToco Boba Tea (Rainbow Tea Shop),3801 W President George Bush Hwy #116,0.0,0,Dallas,Bubble Tea,
+388,Boba Heaven,3112 N Jupiter Rd #311,4.6,335,Dallas,Bubble Tea,Inexpensive
+389,Tiger Sugar,2625 Old Denton Rd #555,4.5,379,Dallas,Bubble Tea,Inexpensive
+390,Bubble Leaf Boba Lounge,427 N Town E Blvd Suite 109,4.2,83,Dallas,Bubble Tea,
+391,R&B TEA CARROLLTON (DALLAS),1017 E Trinity Mls Rd #100,4.8,51,Dallas,Bubble Tea,Inexpensive
+392,Family Thais Asian Bistro,208 N Market St #150,4.4,246,Dallas,Bubble Tea,Inexpensive
+393,Ding Tea Richardson,581 W Campbell Rd,4.7,145,Dallas,Bubble Tea,Inexpensive
+394,Boba Bar,310 S Third St,4.4,540,San Jose,Bubble Tea,Inexpensive
+395,Breaktime Tea - San Jose,110 E San Fernando St,4.4,222,San Jose,Bubble Tea,Inexpensive
+396,Happy Lemon,567 Coleman Ave Suite 10,4.5,161,San Jose,Bubble Tea,Inexpensive
+397,Gong Cha - Downtown San Jose,140 Paseo de San Antonio,4.2,216,San Jose,Bubble Tea,Inexpensive
+398,Boba Pub,1576 Branham Ln,4.4,263,San Jose,Bubble Tea,Inexpensive
+399,Milk Tea Lab,1175 E Julian St Ste 40,4.3,72,San Jose,Bubble Tea,
+400,Sweet Gelato Tea Lounge,979 Story Rd #7084,4.5,314,San Jose,Bubble Tea,
+401,Tocotea,1694 Berryessa Rd,4.3,142,San Jose,Bubble Tea,
+402,Tisane,2980 E Capitol Expy Unit 50,4.4,298,San Jose,Bubble Tea,Inexpensive
+403,Bobaholics,1055 E Brokaw Rd #40,4.4,299,San Jose,Bubble Tea,Inexpensive
+404,Milk Tea Lab,1601 Branham Ln,4.2,183,San Jose,Bubble Tea,Inexpensive
+405,Tastea Berryessa,1160 N Capitol Ave,4.3,419,San Jose,Bubble Tea,Inexpensive
+406,Teazu,969 Story Rd UNIT 6033,3.8,65,San Jose,Bubble Tea,Inexpensive
+407,Teaspoon,4328 Moorpark Ave,4.6,707,San Jose,Bubble Tea,Inexpensive
+408,teahee,979 Story Rd #7012,3.9,106,San Jose,Bubble Tea,
+409,OH MY BOBA ( Organic Creation Coffee and Tea ) Bubble Milk MilkTea Coffee Smoothies,1030 Piedmont Rd e,0.0,0,San Jose,Bubble Tea,
+410,Pekoe,3276 S White Rd,4.4,819,San Jose,Tea house,Inexpensive
+411,Buddy Teahouse,481 E San Carlos St,4.5,80,San Jose,Bubble Tea,
+412,Tra Temptation,3245 Sierra Rd,4.6,104,San Jose,Bubble Tea,
+413,Teasociety San Jose,1654 E Capitol Expy,4.2,204,San Jose,Bubble Tea,Inexpensive
+414,Ume Tea,10887 N Wolfe Rd,3.9,219,San Jose,Bubble Tea,Inexpensive
+415,R&B Tea San Jose,929 Story Rd Suite 2039,4.3,61,San Jose,Bubble Tea,
+416,TeaLyfe Drinks,989 Story Rd,4.5,255,San Jose,Bubble Tea,Inexpensive
+417,Lucky Tea,956 Story Rd,4.4,62,San Jose,Bubble Tea,
+418,Boba Galaxy,2090 N Capitol Ave #C,4.8,45,San Jose,Bubble Tea,Moderate
+419,Gong Cha,1701 Lundy Ave,4.3,311,San Jose,Bubble Tea,Inexpensive
+420,Tea Alley,40 S 1st St,4.2,93,San Jose,Bubble Tea,Inexpensive
+421,Oasis Pure Water & Boba Drinks,1947 Tully Rd,5.0,7,San Jose,Bubble Tea,
+422,N7 Draft Tea + Coffee,4306 Moorpark Ave,4.5,67,San Jose,Bubble Tea,
+423,7 Leaves Cafe,1743 Berryessa Rd,4.5,458,San Jose,Cafe,Inexpensive
+424,Pure Tea Bar,6195 Santa Teresa Blvd,4.4,119,San Jose,Bubble Tea,Inexpensive
+425,"TeaZer: Boba Drinks, Sandwiches, and Snacks",22 N White Rd,4.5,60,San Jose,Bubble Tea,Inexpensive
+426,T4,969 Story Rd UNIT 6081,4.2,95,San Jose,Bubble Tea,Inexpensive
+427,N7 Draft Tea + Coffee,3005 Silver Creek Rd STE 184,4.4,115,San Jose,Bubble Tea,
+428,Happy Lemon,3005 Silver Creek Rd #112,4.5,382,San Jose,Bubble Tea,Inexpensive
+429,Gong Cha,1180 Blossom Hill Rd #3,3.8,69,San Jose,Bubble Tea,Inexpensive
+430,Bambu Desserts & Drinks,1688 Hostetter Rd D,4.0,123,San Jose,Dessert shop,Inexpensive
+431,Suncha,326 Commercial St,4.8,23,San Jose,Bubble Tea,Inexpensive
+432,Tastea Communications Hill,509 W Capitol Expy,4.4,105,San Jose,Bubble Tea,Inexpensive
+433,TLeaf Teapresso,860 Blossom Hill Rd,4.3,96,San Jose,Bubble Tea,Inexpensive
+434,Pekoe,996 Lundy Ave,4.5,162,San Jose,Bubble Tea,
+435,Cool Tea Bar,2569 S King Rd #8C,4.4,17,San Jose,Bubble Tea,Inexpensive
+436,Happy Lemon,5379 Prospect Rd,4.5,100,San Jose,Bubble Tea,Moderate
+437,Sharetea,2855 Stevens Creek Blvd,4.1,264,San Jose,Bubble Tea,Inexpensive
+438,T4,1671 N Capitol Ave,4.2,162,San Jose,Tea house,Inexpensive
+439,TZONE Winchester,980 S Winchester Blvd #20,4.4,266,San Jose,Bubble Tea,Inexpensive
+440,Teaspoon,4750 Almaden Expy UNIT 116,4.9,251,San Jose,Bubble Tea,Inexpensive
+441,Happy Lemon,630 Blossom Hill Rd #30,4.4,109,San Jose,Cafe,Inexpensive
+442,Boba Express,1645 Flickinger Ave,0.0,0,San Jose,Bubble Tea,
+443,Tea Villa,150 S 1st St Suite 103,4.5,22,San Jose,Cafe,
+444,Yifang Taiwan Fruit Tea,1147 S De Anza Blvd,3.9,129,San Jose,Tea house,Inexpensive
+445,Bobateani,,5.0,13,San Jose,Bubble Tea,
+446,Rabbit Rabbit Tea,2855 Stevens Creek Blvd Space B9243,4.2,123,San Jose,Bubble Tea,Inexpensive
+447,OneZo Boba,925 Blossom Hill Rd #1384,0.0,0,San Jose,Bubble Tea,
+448,The Sweet Corner,989 Story Rd,4.1,185,San Jose,Bubble Tea,Moderate
+449,Jiaren Cafe,1171 Homestead Rd Ste 140B,4.8,216,San Jose,Coffee shop,Inexpensive
+450,Tiger Sugar Cupertino,19620 Stevens Creek Blvd #180,4.4,186,San Jose,Bubble Tea,
+451,Boba Up,4141 University Way NE # 103,4.6,604,Seattle,Bubble Tea,Inexpensive
+452,Wow Bubble Tea,4553 University Way NE,4.6,245,Seattle,Bubble Tea,Inexpensive
+453,Young Tea,609 S Weller St,4.5,626,Seattle,Bubble Tea,Inexpensive
+454,Sharetea,530 Broadway,4.4,186,Seattle,Bubble Tea,Inexpensive
+455,The Moo Bar,2124 Westlake Ave,4.0,669,Seattle,Bubble Tea,Inexpensive
+456,Oasis Tea Zone (Chinatown ID),519 6th Ave S,4.3,1483,Seattle,Bubble Tea,Inexpensive
+457,DING TEA SEATTLE,4725 University Way NE,4.4,285,Seattle,Bubble Tea,Inexpensive
+458,BobaBucha Cafe,1424 E Pine St,4.8,99,Seattle,Bubble Tea,
+459,Drip Tea,1416 10th Ave,4.4,262,Seattle,Cafe,Inexpensive
+460,Hi Tea Cafe,202 Broadway E,4.4,134,Seattle,Bubble Tea,Inexpensive
+461,20 OZ Tea,1823 Eastlake Ave E #160,4.4,232,Seattle,Bubble Tea,
+462,The Bubble Tea Shop,305 Harrison St,2.5,97,Seattle,Bubble Tea,Inexpensive
+463,Rabbit Rabbit Tea Seattle,518 1st Ave N,4.5,114,Seattle,Bubble Tea,Inexpensive
+464,Meraki Tea Bar,4701 Brooklyn Ave NE,4.6,62,Seattle,Bubble Tea,Inexpensive
+465,TP TEA,679 S King St,4.3,163,Seattle,Bubble Tea,
+466,Oasis Tea Zone,4524 University Way NE,4.3,457,Seattle,Bubble Tea,Inexpensive
+467,Timeless Tea,1000 NE 50th St,4.4,283,Seattle,Bubble Tea,Moderate
+468,Meetea Cafe - Capitol Hill,1424 11th Ave Suite F,4.4,63,Seattle,Bubble Tea,Inexpensive
+469,Dont Yell At Me,4511 University Way NE,4.5,269,Seattle,Bubble Tea,Inexpensive
+470,Tea Addicts,1527 Harvard Ave,4.6,139,Seattle,Bubble Tea,
+471,DIY Tea Lab - Fremont,734 N 34th St,4.0,68,Seattle,Bubble Tea,Inexpensive
+472,The Boss Tea,6408 Martin Luther King Jr Way S,4.6,78,Seattle,Bubble Tea,
+473,Atulea,1715 12th Ave #100,4.6,175,Seattle,Bubble Tea,Inexpensive
+474,Happy Lemon,2245 8th Ave R1-1A,4.2,252,Seattle,Bubble Tea,Moderate
+475,Blank Space Cafe,2126 2nd Ave,3.9,288,Seattle,Bubble Tea,Inexpensive
+476,Can't Hot,523 Maynard Ave S,4.6,11,Seattle,Bubble Tea,
+477,Boba Smoothies,1409 NE 45th St,4.4,46,Seattle,Bubble Tea,Inexpensive
+478,Chatime,6014 Martin Luther King Jr Way S,4.0,112,Seattle,Bubble Tea,Inexpensive
+479,YAN tea,5210 Roosevelt Way NE Ste A,4.3,88,Seattle,Bubble Tea,
+480,Boba Gem Tea House,4213 University Way NE,4.6,35,Seattle,Bubble Tea,
+481,Café Happy,1408 NE 40th St,3.8,57,Seattle,Bubble Tea,
+482,Luu’s Cafe,8507 35th Ave NE,4.7,104,Seattle,Bubble Tea,Inexpensive
+483,Seattle Best Tea,506 S King St,4.8,501,Seattle,Tea store,
+484,Yifang Taiwan Fruit Tea 一芳台灣水果茶 UW,5000 University Way NE Suite C,4.4,160,Seattle,Bubble Tea,Inexpensive
+485,Tea King,1600 Dexter Ave N Unit 202,4.8,57,Seattle,Bubble Tea,
+486,Citra,4730 University Way NE #105,4.8,203,Seattle,Cafe,Moderate
+487,Bubble Tea Fresh Fruit Juice,1043 S Jackson St,4.6,130,Seattle,Bubble Tea,Inexpensive
+488,Yifang Taiwan Fruit Tea,619 S King St,4.3,54,Seattle,Bubble Tea,Inexpensive
+489,Iki Tea,916 E Pike St,4.5,15,Seattle,Bubble Tea,
+490,TP TEA,1312 NE 45th St,4.7,21,Seattle,Bubble Tea,Inexpensive
+491,OH! Bear Cafe & TeaHouse,4708 11th Ave NE,4.4,139,Seattle,Cafe,Inexpensive
+492,Sharetea,4730 University Way NE Suite #109-110,4.4,56,Seattle,Bubble Tea,Inexpensive
+493,Bambū Desserts & Drinks,516 7th Ave S unit A,4.5,648,Seattle,Restaurant,Inexpensive
+494,Sharetea,4740 42nd Ave SW,4.3,46,Seattle,Bubble Tea,Inexpensive
+495,Happy Lemon,2630 NE Village Plaza,4.4,42,Seattle,Bubble Tea,
+496,Timeless Tea 茶千岁(Capitol Hill),509 Broadway E,0.0,0,Seattle,Bubble Tea,
+497,MI TEA,307 Westlake Ave N,3.9,36,Seattle,Bubble Tea,
+498,Young Tea,2110 N 45th St,5.0,15,Seattle,Bubble Tea,Inexpensive
+499,Luu's Cafe,7214 Woodlawn Ave NE,4.3,6,Seattle,Coffee shop,Inexpensive
+500,Phở Hòa + Jazen Tea (Weller),618 S Weller St,4.2,334,Seattle,Bubble Tea,Inexpensive
+501,Ambrosia Cafe,110 Martin Luther King Jr Way S,3.6,75,Seattle,Cafe,Inexpensive
+502,Jardin Tea,604 5th Ave S,4.6,41,Seattle,Tea house,Inexpensive
+503,Tea Republik,4527 University Way NE,4.7,382,Seattle,Tea house,Inexpensive
+504,Pearls Tea & Coffee,4800 Delridge Way SW,4.1,211,Seattle,Coffee shop,Inexpensive
+505,Happy Tea,14314 Greenwood Ave N Unit 2,4.6,10,Seattle,Bubble Tea,
+506,Miro Tea,5405 Ballard Ave NW,4.7,587,Seattle,Tea house,Inexpensive
+507,R&B Tea UW Seattle,1100 NE 45th St Suite 100,4.2,10,Seattle,Bubble Tea,
+508,Rain Cafe,13200 Aurora Ave N suite c,4.2,404,Seattle,Cafe,Moderate
+509,jys bubble tea,5267 University Way NE,3.9,155,Seattle,Bubble Tea,
+510,Nana’s Green Tea,1007 Stewart St #103,4.4,1001,Seattle,Japanese sweets restaurant,Moderate
+511,TIGER SUGAR,1422 2nd Ave,0.0,0,Seattle,Bubble Tea,
+512,BobaLust Tea House,319 Tukwila Pkwy,4.6,586,Seattle,Bubble Tea,Inexpensive
+513,DIY Tea Lab - Ballard,2215 NW Market St,5.0,2,Seattle,Bubble Tea,
+514,Natalie's on Alki,2532 Alki Ave SW,4.6,69,Seattle,Bubble Tea,
+515,tiktak,651 S King St,3.6,9,Seattle,Dessert shop,Inexpensive
+516,"Swan Healthy Gourmet, LLC",,4.1,21,Seattle,Closed,
+517,"Hangry Panda: Gluten Free Fried Chicken, Teriyaki & Bubble Tea",7815 Aurora Ave N,4.7,186,Seattle,Bubble Tea,Inexpensive
+518,Teaism Lafayette Park,800 Connecticut Ave NW,4.4,204,Washington Dc,Bubble Tea,Moderate
+519,Sharetea DC Chinatown 歇腳亭 華盛頓唐人街店,519 H St NW,4.5,369,Washington Dc,Bubble Tea,Inexpensive
+520,Gong Cha 14th St DC,1399 New York Ave NW,4.2,244,Washington Dc,Bubble Tea,Inexpensive
+521,BeauTea,1073 Wisconsin Ave NW 1st Floor,3.7,75,Washington Dc,Bubble Tea,
+522,SecreTea,1959 E St NW,4.3,94,Washington Dc,Bubble Tea,
+523,Spot of Tea,51 M St NE,4.6,110,Washington Dc,Bubble Tea,
+524,DC Boba,1403 Park Rd NW,4.8,32,Washington Dc,Bubble Tea,Inexpensive
+525,Kung Fu Tea,1990 M St NW #102,4.4,139,Washington Dc,Bubble Tea,Inexpensive
+526,Cozy Bubble Tea and Coffee,1529 Wisconsin Ave NW Floor 2,3.3,17,Washington Dc,Bubble Tea,
+527,Spot of Tea,2400 14th St NW,5.0,26,Washington Dc,Bubble Tea,
+528,Gong Cha,1901 Pennsylvania Avenue NW suite 0002,4.5,54,Washington Dc,Bubble Tea,Inexpensive
+529,Gong cha Georgetown,3279 M St NW,4.3,51,Washington Dc,Bubble Tea,Inexpensive
+530,Möge Tee - DC,2428 Wisconsin Ave NW,3.9,150,Washington Dc,Bubble Tea,Moderate
+531,Sharetea 歇脚亭,519 H St NW,4.5,30,Washington Dc,Bubble Tea,Inexpensive
+532,Teaism Dupont Circle,2009 R St NW,4.5,554,Washington Dc,Bubble Tea,Moderate
+533,Teaism Penn Quarter,400 8th St NW,4.5,893,Washington Dc,Bubble Tea,Moderate
+534,Tea Mansion | DuPont Circle | Washington DC,1627 Connecticut Ave NW,4.6,56,Washington Dc,Bubble Tea,
+535,Supreme Barbecue x Auntea Boba,2 Florida Ave NE,4.1,94,Washington Dc,Bubble Tea,
+536,Lily Bubble Tea & Smoothie,1666 Crystal Dr,4.4,100,Washington Dc,Bubble Tea,Inexpensive
+537,Teaism Lafayette Park,800 Connecticut Ave NW,4.4,204,Washington Dc,Bubble Tea,Moderate
+538,E-Tea,49 District Square SW,3.9,33,Washington Dc,Bubble Tea,
+539,Simply Banh Mi,1624 Wisconsin Ave NW,4.6,414,Washington Dc,Bubble Tea,Inexpensive
+540,Shopkeepers,1231 Florida Ave NE,4.6,46,Washington Dc,Bubble Tea,
+541,Gong Cha,1650 Wilson Blvd Suite 100A,3.9,60,Washington Dc,Bubble Tea,Inexpensive
+542,Panda Tea House,1100 S. Hayes Street Suite C06A,2.7,82,Washington Dc,Bubble Tea,
+543,Spill The Tea,515 E Braddock Rd,4.4,96,Washington Dc,Bubble Tea,
+544,Kogibow Bakery,1817 Adams Mill Rd NW,4.4,65,Washington Dc,Bakery,
+545,Shiny Tea,2667 Broadway,4.6,174,New York,Bubble Tea,Inexpensive
+546,ViVi Bubble Tea,49 Bayard St,4.2,360,New York,Bubble Tea,Inexpensive
+547,Tiger Sugar (CHINATOWN),197 Canal St,4.4,592,New York,Bubble Tea,Inexpensive
+548,PATEA BUBBLE TEA,227 E 14th St,4.5,199,New York,Bubble Tea,Inexpensive
+549,I’Milky 沐白,992 6th Ave,4.5,336,New York,Bubble Tea,Inexpensive
+550,ViVi Bubble Tea,607 9th Ave,4.2,615,New York,Bubble Tea,Inexpensive
+551,Mi Tea,101 MacDougal St,4.7,118,New York,Bubble Tea,Inexpensive
+552,BIAO Sugar,1271 Broadway,4.1,278,New York,Bubble Tea,Inexpensive
+553,Gong Cha,75 W 38th St,4.2,523,New York,Bubble Tea,Inexpensive
+554,Ten Ren's Tea Time,73 Mott St,4.1,397,New York,Bubble Tea,Inexpensive
+555,The Alley,68 Cooper Sq,4.2,291,New York,Bubble Tea,Moderate
+556,CoCo Fresh Tea & Juice,38 Lexington Ave,4.3,156,New York,Bubble Tea,Inexpensive
+557,Ho Ho Té,805 8th Ave,4.3,135,New York,Bubble Tea,Inexpensive
+558,Kung Fu Tea,28 St Marks Pl,4.4,231,New York,Bubble Tea,Inexpensive
+559,Machi Machi,33 W 32nd St,3.9,315,New York,Bubble Tea,Inexpensive
+560,FIFTYLAN Union Square,32 Union Square E,4.2,51,New York,Bubble Tea,
+561,Chun Yang Tea,26B Elizabeth St,4.4,53,New York,Bubble Tea,Inexpensive
+562,ViVi Bubble Tea,170 W 23rd St,4.2,357,New York,Bubble Tea,Inexpensive
+563,Modern Tea Shop,300 W 49th St,4.3,89,New York,Bubble Tea,Inexpensive
+564,Teado Tea Shop,145D Hester St,4.9,390,New York,Bubble Tea,Inexpensive
+565,Truedan Chinatown 珍煮丹,208 Grand St # Store,4.5,68,New York,Bubble Tea,Inexpensive
+566,Gong Cha,12 W 32nd St,4.1,377,New York,Bubble Tea,Inexpensive
+567,Moge Tee Midtown,302 W 39th St,4.0,126,New York,Bubble Tea,Moderate
+568,Gong Cha,2810 Broadway,4.5,189,New York,Bubble Tea,Inexpensive
+569,ViVi Bubble Tea,2 E Broadway,3.7,71,New York,Bubble Tea,Inexpensive
+570,Kung Fu Tea,31 Waverly Pl Unit 5,4.6,144,New York,Bubble Tea,Inexpensive
+571,Yi Fang Taiwan Fruit Tea 一芳,67 Bayard St,3.7,118,New York,Bubble Tea,Inexpensive
+572,"Debutea, tea and coffee",217 Thompson St,4.5,307,New York,Bubble Tea,
+573,Kung Fu Tea,73 Chrystie St,4.2,331,New York,Bubble Tea,Inexpensive
+574,QBubble,114-02 15th Ave #5,4.9,278,New York,Wholesaler,
+575,Yaya Tea CHRYSTIE,51 Chrystie St,4.6,621,New York,Bubble Tea,Inexpensive
+576,Green E.Tea,164 Pearl St,5.0,1,New York,Bubble Tea,Inexpensive
+577,Koo Cha,1764 1st Ave. Store B,3.7,15,New York,Bubble Tea,
+578,ViVi Bubble Tea,18 W 14th St a,4.2,283,New York,Bubble Tea,Inexpensive
+579,Moge Tee East Village,69 Cooper Sq,4.2,139,New York,Bubble Tea,Moderate
+580,Xing Fu Tang,40-52 Main St,4.3,395,New York,Bubble Tea,Moderate
+581,Hawa Smoothies & Bubble Tea,181A E Broadway Closed,4.7,168,New York,Bubble Tea,Inexpensive
+582,Yaya Tea GRAND,206 Grand St,4.4,526,New York,Bubble Tea,Inexpensive
+583,SugarCube New York,4007 82nd St,5.0,11,New York,Bubble Tea,Inexpensive
+584,The Koi / 50 Lan,189 Bleecker,4.8,11,New York,Bubble Tea,
+585,Tidal Tea,1520 Amsterdam Ave,4.7,122,New York,Bubble Tea,Inexpensive
+586,Miss Du's Tea Shop,33 Pell St,4.8,76,New York,Tea house,
+587,honestea,173 Hester St,4.3,143,New York,Tea house,Inexpensive
+588,Kung Fu Tea,9 Broadway,4.1,93,New York,Bubble Tea,Inexpensive
+589,Kung Fu Tea,86-12 Justice Ave,4.2,212,New York,Bubble Tea,Inexpensive
+590,iF Chá,162 E 25th St,4.0,5,New York,Cafe,
+591,M Tea Flushing,36-56 Main St,4.1,276,New York,Bubble Tea,Inexpensive
+592,Lazy Sundaes Canal St. Market,261 Canal St,4.6,31,New York,Bubble Tea,
+593,BOBA KAFE,345 W 35th ST,0.0,0,New York,,
+594,Hawa Smoothies and Bubble Tea,1293 1st Ave.,4.7,50,New York,Bubble Tea,
+595,Yi Fang Taiwan Fruit Tea,44-68 21st St,4.0,117,New York,Bubble Tea,Moderate
+596,iCha Boba,12-07 Jackson Ave,5.0,22,New York,Bubble Tea,Inexpensive
+597,Grace Street Coffee & Desserts,17 W 32nd St,4.6,2268,New York,Bubble Tea,Moderate
+598,Chun Yang Tea- New Dorp,324 New Dorp Ln,4.7,71,New York,Bubble Tea,
+599,Solely Tea,111 Eldridge St,5.0,43,New York,Bubble Tea,
+600,Bibble & Sip,253 W 51st St,4.6,2463,New York,Cafe,Moderate
+601,The Teahouse Tapioca & Tea,4926 Beechnut St,4.4,435,Houston,Bubble Tea,Inexpensive
+602,The Teahouse,2089 Westheimer Rd,4.8,2098,Houston,Bubble Tea,Inexpensive
+603,Boba City,8330 Long Point Rd Suite E,4.4,291,Houston,Bubble Tea,Inexpensive
+604,Kung Fu Tea,9889 Bellaire Blvd #222,4.0,422,Houston,Bubble Tea,Inexpensive
+605,BoBa Island,12138 Bellaire Blvd #2315,4.3,325,Houston,Tea house,Inexpensive
+606,Teaspoon of Boba,11818 Airline Dr ste i,4.7,235,Houston,Bubble Tea,Inexpensive
+607,The Bếp Teahouse,8300 W Sam Houston Pkwy S Ste 172,4.4,308,Houston,Bubble Tea,Inexpensive
+608,The Boba Spot,13411 TX-249 #6,4.0,74,Houston,Bubble Tea,
+609,Sharetea,9889 Bellaire Blvd Ste E213,4.5,508,Houston,Bubble Tea,Inexpensive
+610,I Heart Boba,10092 Veterans Memorial Dr #2404,4.5,428,Houston,Bubble Tea,Inexpensive
+611,Boba Chick,3506 Scott St,4.3,67,Houston,Bubble Tea,Inexpensive
+612,Tea Top,9889 Bellaire Blvd E203,4.6,179,Houston,Bubble Tea,Inexpensive
+613,Yumcha,9889 Bellaire Blvd STE E217,4.6,243,Houston,Bubble Tea,Inexpensive
+614,Bobo Tea,1003 Dairy Ashford Rd Ste B,4.6,127,Houston,Bubble Tea,Inexpensive
+615,The Teahouse,2518 Rice Boulevard B,4.3,478,Houston,Bubble Tea,Inexpensive
+616,SmooTea,4007 Bellaire Blvd suite f,4.7,86,Houston,Bubble Tea,Inexpensive
+617,KOI CHA,"9855-C, Blackhawk Blvd",4.6,112,Houston,Bubble Tea,Inexpensive
+618,New Tapioca Master,12303 Jones Rd #100,4.7,475,Houston,Cafe,Inexpensive
+619,Nu Ice & Drinks,5901 Westheimer Rd B1,4.6,640,Houston,Bubble Tea,Inexpensive
+620,I Heart Boba,10245 Kempwood Dr ste b,4.5,114,Houston,Bubble Tea,Inexpensive
+621,"JUJU Tapioca Bubble Tea, Smoothies & Ice Cream",5901 Bellaire Blvd #106,4.0,224,Houston,Bubble Tea,Inexpensive
+622,Hella Bubble,2400 Mid Ln #110,4.6,248,Houston,Bubble Tea,Inexpensive
+623,Boba Cafe,1113 Holman St,4.0,273,Houston,Fast Food,Inexpensive
+624,The Teahouse,5085 Westheimer Rd,4.2,185,Houston,Bubble Tea,Inexpensive
+625,Teaholic,10613 Bellaire Blvd #A150,4.3,201,Houston,Bubble Tea,Inexpensive
+626,Tapioca House,9104 Bellaire Blvd suite b,4.4,242,Houston,Bubble Tea,Inexpensive
+627,Purple Kow,2531 University Blvd,4.4,135,Houston,Bubble Tea,Inexpensive
+628,Jade's Teahouse,5475 W Loop S,4.5,202,Houston,Bubble Tea,Inexpensive
+629,Kung Fu Tea,3224 Yoakum Blvd,4.2,618,Houston,Bubble Tea,Inexpensive
+630,Tiger Sugar,9393 Bellaire Blvd #D,4.3,289,Houston,Bubble Tea,Inexpensive
+631,I Heart Boba,4935 Hwy 6 N,4.5,251,Houston,Bubble Tea,Inexpensive
+632,Oh My Tea!,9820 Gulf Fwy Ste A9,4.7,356,Houston,Bubble Tea,Inexpensive
+633,Teapresso Bar,718 W 18th St Suite H,4.6,309,Houston,Cafe,Inexpensive
+634,Hang Xanh Sandwiches & Boba Tea Zone,10625 Veterans Memorial Dr,4.3,74,Houston,Bubble Tea,Inexpensive
+635,I Heart Boba FM 529,15951 Farm to Market Rd 529 #135,4.5,197,Houston,Bubble Tea,Inexpensive
+636,Bubble Tea House,1560 Eldridge Pkwy #162,4.4,287,Houston,Bubble Tea,Inexpensive
+637,Heavenly Beverages,21542 Tomball Pkwy,4.7,344,Houston,Bubble Tea,Inexpensive
+638,Feng Cha,9889 Bellaire Blvd STE C316,4.6,192,Houston,Bubble Tea,Inexpensive
+639,Ice Valley Cafe,8606 Hwy 6 N,4.3,263,Houston,Bubble Tea,Inexpensive
+640,Muse Tea,1809 Eldridge Pkwy #109,4.5,186,Houston,Bubble Tea,Inexpensive
+641,Jtea,12000 Bellaire Blvd,4.2,186,Houston,Bubble Tea,
+642,Fuji Tea,9312 Bellaire Blvd,4.3,72,Houston,Bubble Tea,Inexpensive
+643,7 Leaves Cafe,9798 Bellaire Blvd suite b,4.5,306,Houston,Tea house,Inexpensive
+644,Ding Tea,9600 Bellaire Blvd Ste 138,4.1,195,Houston,Bubble Tea,Inexpensive
+645,VietSubs & Boba Tea,10919 Louetta Rd Suite E540,4.3,74,Houston,Bubble Tea,Inexpensive
+646,The Teahouse,5710 Memorial Dr Suite B,4.5,299,Houston,Bubble Tea,Inexpensive
+647,The Teahouse,8224 Kirby Dr,4.1,136,Houston,Bubble Tea,Inexpensive
+648,Bubble Boba,8070 S Gessner Rd,5.0,7,Houston,Bubble Tea,
+649,The Teahouse,9198 Bellaire Blvd,4.5,574,Houston,Bubble Tea,Inexpensive
+650,Happy Lemon,9938 Bellaire Blvd Suite E,4.6,51,Houston,Bubble Tea,
+651,The Teahouse,1737 W 34th St Suite 600,4.4,54,Houston,Bubble Tea,
+652,Long Coffee,10611 Bellaire Blvd,4.4,1180,Houston,Coffee shop,Inexpensive
+653,I Heart Boba,11747 W Bellfort Ave,4.3,113,Houston,Bubble Tea,
+654,Magic Cup,11724 Bellaire Blvd,4.4,1124,Houston,Bubble Tea,Inexpensive
+655,Daboba,11360 Bellaire Blvd Suite 80,4.4,36,Houston,Bubble Tea,
+656,Happy Teahouse,8066 Westheimer Rd,4.0,25,Houston,Bubble Tea,
+657,Mr Wish,9750 Bellaire Blvd #188,4.4,119,Houston,Bubble Tea,Inexpensive
+658,Kung Fu Tea,3201 Louisiana St APT 106,3.8,124,Houston,Tea house,Inexpensive
+659,The Teahouse,506 Yale St Suite E,4.3,204,Houston,Bubble Tea,Inexpensive
+660,Hella Bubble,2015 Yale St,4.2,38,Houston,Bubble Tea,
+661,Happy Teahouse & Cafe (New Location 8066 Westheimer),8066 Westheimer Rd,4.2,544,Houston,Bubble Tea,Inexpensive
+662,R Tea-Zone,10541 FM1960 #260b,4.6,73,Houston,Bubble Tea,Inexpensive
+663,Fusion 36 Degree Coffee Smoothie Boba Tea,7014 Hwy 6 N Suite G,4.7,92,Houston,Bubble Tea,
+664,Kung Fu Tea,3645 FM 1960 #238,4.2,190,Houston,Bubble Tea,Inexpensive
+665,Gong Cha,9889 Bellaire Blvd C 318,4.2,580,Houston,Bubble Tea,Inexpensive
+666,Fuji Tea,9312 Bellaire Blvd,4.3,72,Houston,Bubble Tea,Inexpensive
+667,Twinkle Tea Shop冰岛,9188 G Bellaire Blvd,4.4,82,Houston,Bubble Tea,Inexpensive
+668,Teapresso Bar,2929 Navigation Blvd Suite 180,4.7,47,Houston,Bubble Tea,
+669,"Ca phe Phin - Vietnamese coffee & tea, bubble tea house",1354 E NASA Pkwy,4.7,211,Houston,Bubble Tea,Inexpensive
+670,Zero Degrees,4440 North Fwy,3.6,260,Houston,Bubble Tea,Moderate
+671,TeaTalk,12148 Bellaire Blvd Suite 110,4.1,87,Houston,Bubble Tea,
+672,Möge Tee,1709 Dryden Rd Unit 2a,4.4,12,Houston,Bubble Tea,Inexpensive
+673,Zero Degrees,10603 Bellaire Blvd b101,4.2,749,Houston,Bubble Tea,Moderate
+674,Tealicious Drinks,13480 Veterans Memorial Dr P2,4.5,76,Houston,Tea house,
+675,Tapioca Xpress,12800 Scarsdale Blvd,4.6,267,Houston,Bubble Tea,Inexpensive
+676,Sharetea,3651 Weslayan St #100,5.0,84,Houston,Bubble Tea,Inexpensive
+677,Tapioca Blossom,14175 Northwest Fwy,4.7,48,Houston,Bubble Tea,
+678,ULIKE TEA,4407c Cypress Creek Pkway,4.7,132,Houston,Tea house,
+679,Kim's Teahouse Bear Creek,5571 Hwy 6 N,4.7,303,Houston,Bubble Tea,Inexpensive
+680,Seng Seng Cafe,3645 Cypress Creek Pkwy #328,4.7,88,Houston,Bubble Tea,
+681,TeaFix,6938 Wilcrest Dr suite e-1,4.8,105,Houston,Tea house,
+682,T4 Show Room,7019 Boone Rd,0.0,0,Houston,Bubble Tea,
+683,OH MY TEA!,5730 Fairmont Pkwy,4.8,42,Houston,Bubble Tea,
+684,Modern Tea,9968 Bellaire Blvd #100a,4.1,116,Houston,Tea house,
+685,Kravin Fruit Bar,10623 Bellaire Blvd c143,4.6,278,Houston,American,Inexpensive
+686,Zero Degrees,6927 Farm to Market 1960 Rd W Unit H,3.9,525,Houston,Cafe,Moderate
+687,Pho Hoa,13280 Northwest Fwy #A,3.9,391,Houston,Bubble Tea,Inexpensive
+688,Tapioca King,6811 Baneway Dr,3.0,2,Houston,Tea store,
+689,Fiji Tea & Coffee,11205 Bellaire Blvd,3.8,57,Houston,Coffee shop,
+690,Partea's House,6833 W Sam Houston Pkwy S # 108,4.9,7,Houston,Coffee shop,Inexpensive
+691,"GBT Foods, Inc.",10570 Bissonnet St Suite 100,5.0,5,Houston,Food products supplier,
+692,Baoz Dumplings,1001 Fannin St # M180,4.1,61,Houston,Bubble Tea,Inexpensive
+693,Njoi,10868 Beechnut St,4.4,99,Houston,Coffee shop,
+694,Nu Cafe,9889 Bellaire Blvd STE 112A,4.4,668,Houston,Bubble Tea,Inexpensive
+695,Bobo Tea,2575 S Dairy Ashford Rd STE A,5.0,2,Houston,Bubble Tea,
+696,Ice Queen,2402 Bay Area Blvd Suite E,4.6,105,Houston,Ice Cream,
+697,The Boba Shop (FM 2920),"107 3730, Farm to Market 2920",4.7,643,Houston,Bubble Tea,Inexpensive
+698,Ahi Poke - Hawaiian Bowls & Tapioca Tea,5716 Fairmont Pkwy,4.7,430,Houston,Bubble Tea,
+699,7 Leaves Cafe,3825 Richmond Ave,4.7,92,Houston,Bubble Tea,Inexpensive
+700,Sharetea,3651 Weslayan St Suite 100,4.0,2,Houston,Bubble Tea,Inexpensive
+701,Yummie,10211 Cypresswood Dr #1200,4.8,148,Houston,Vietnamese,Inexpensive
+702,The Alley,23220 Grand Cir Blvd Suite130,4.3,93,Houston,Bubble Tea,Inexpensive
+703,Kravin' Desserts & Tapioca,21788 Katy Fwy #200,4.6,182,Houston,Bubble Tea,Inexpensive
+704,Okie Dokie Teahouse,3211 Greenhouse Rd Ste 115,4.8,258,Houston,Bubble Tea,
+705,"Q Wings, Seafood, & Boba",6715 Bissonnet St #500,4.6,138,Houston,Restaurant,
+706,Baguette & Tea,11828 Bellaire Boulevard,4.7,34,Houston,Restaurant,
+707,Teacup Cafe,8300 W Sam Houston Pkwy S,4.3,260,Houston,Asian,Inexpensive
+708,B&T Cafe,2007 W Alabama St ste b,4.8,265,Houston,Vietnamese,Inexpensive
+709,Bun Bo Hue Duc Chuong 1 - Buba T-2,11415 Bellaire Blvd suite k,4.1,150,Houston,Vietnamese,Inexpensive
+710,Boba Tea-Smoothies,,4.3,4,Houston,,
+711,I Heart Boba,5834 Louetta Rd Suite A,4.5,591,Houston,Bubble Tea,Inexpensive
+712,The Boba Shop (I-45),21117 North Fwy Suite 100,4.6,283,Houston,Bubble Tea,Inexpensive
+713,Ding Tea,23227 Mercantile Pkwy Ste A3,4.6,83,Houston,Bubble Tea,
+714,Bubble Egg,9188 Bellaire Blvd #B,4.4,479,Houston,Cafe,Moderate
+715,Tea Top,23119 Colonial Pkwy C-7,4.7,206,Houston,Bubble Tea,Inexpensive
+716,The Teahouse,2470 Pearland Pkwy Suite 120,4.1,60,Houston,Bubble Tea,Inexpensive
+717,Kim's Teahouse,1523 Mason Rd,4.6,706,Houston,Bubble Tea,Inexpensive
+718,Meet Fresh,9393 Bellaire Blvd Suite I,3.9,236,Houston,Restaurant,Moderate
+719,Bubble Egg,1717 W 34th St #900,4.6,209,Houston,Dessert shop,
+720,The Teahouse,2810 Business Center Dr Suite 111,4.4,335,Houston,Bubble Tea,Inexpensive
+721,Formosa Bubble Teahouse,17505 Telge Rd #105,4.8,187,Houston,Tea house,
+722,Gong Cha,23119 Colonial Pkwy Suite B9,4.3,215,Houston,Bubble Tea,Inexpensive
+723,Fresh Boba,11619 S Texas 6,4.3,201,Houston,Bubble Tea,Inexpensive
+724,R&B Tea Pearland,3422 Business Center Dr #142,4.5,134,Houston,Bubble Tea,Inexpensive
+725,Minuti Coffee,909 Texas Ave,4.4,602,Houston,Coffee shop,Inexpensive
+726,Puer,6871 N Fry Rd Suite 114,4.8,139,Houston,Bubble Tea,Inexpensive
+727,Vogue Bubble Tea & Coffee Bar,7025 Fry Rd Suite 100,4.5,129,Houston,Bubble Tea,
+728,My Tastes,13500 W Airport Blvd C,4.2,101,Houston,Tea house,Inexpensive
+729,Infuzion Bubble Tea Bar,29300 Hempstead Rd Suite 400,4.0,8,Houston,Bubble Tea,
+730,Gotcha Boba,2805 Gulf Fwy S Ste A,4.6,299,Houston,Bubble Tea,Inexpensive
+731,Hangout Fruit Juices & Bites,10613 Bellaire Blvd,4.0,98,Houston,Restaurant,Inexpensive
+732,MTea & Coffee,3737 Hwy 6,4.6,241,Houston,Bubble Tea,Inexpensive
+733,Chillax,1035 Blalock Rd,4.7,40,Houston,Ice Cream,Moderate
+734,The Teahouse Tapioca & Tea,12343 Barker Cypress Rd,4.5,344,Houston,Bubble Tea,Inexpensive
+735,Ding Tea,4650 Hwy 6,4.4,136,Houston,Bubble Tea,Inexpensive
+736,Thien An Sandwiches,2611 San Jacinto St,4.5,862,Houston,Vietnamese,Inexpensive
+737,Honey Art Cafe,3516 S Shepherd Dr,4.4,175,Houston,Cafe,Inexpensive
+738,Thắng's French Coffee & Bubble Tea,1286 Kalani St Suite B108,4.6,134,Honolulu,Bubble Tea,Inexpensive
+739,MOMO TEA,320 Ward Ave Ste 116,4.5,62,Honolulu,Bubble Tea,Inexpensive
+740,Boba Bros,1050 Ala Moana,4.0,1,Honolulu,Bubble Tea,
+741,Wen's Tea,661 Ke’eaumoku St #105B,4.6,42,Honolulu,Bubble Tea,Inexpensive
+742,NIO Snow Ice & Tea,550 Halekauwila St #101,4.8,50,Honolulu,Bubble Tea,Inexpensive
+743,Thanh French Coffee & Bubble Tea,1120 Maunakea St,4.5,19,Honolulu,Bubble Tea,
+744,Dragon Tea,1339 N School St Ste 104,4.5,126,Honolulu,Bubble Tea,Inexpensive
+745,TOP TEA + ESPRESSO LILIHA,1425 Liliha St Ste #10,4.7,44,Honolulu,Bubble Tea,Inexpensive
+746,ChaTea Hawaii,1617 Kapiolani Blvd #102,4.5,47,Honolulu,Bubble Tea,Inexpensive
+747,Teapresso Bar,510 Piikoi St #100,4.1,139,Honolulu,Bubble Tea,Inexpensive
+748,Sun Tea Mix,400 Keawe St #107,4.5,53,Honolulu,Bubble Tea,
+749,QQ Tea & Vegetarian House,931 University Ave #109,4.7,94,Honolulu,Bubble Tea,
+750,S7-Icy Bubble,555 N King St,4.3,37,Honolulu,Cafe,
+751,Taste Tea,1430 Kona St,4.2,286,Honolulu,Cafe,Inexpensive
+752,It’s Tea,435 Kamakee St #102,4.8,25,Honolulu,Bubble Tea,
+753,Teapresso Bar - Keeaumoku,745 Ke’eaumoku St #102,4.3,117,Honolulu,Bubble Tea,Inexpensive
+754,Rabbit Rabbit Tea University,2700 S King St,4.3,27,Honolulu,Bubble Tea,
+755,Teapresso Bar,1088 Bishop St #101,4.4,51,Honolulu,Bubble Tea,Inexpensive
+756,Lunar Tea,2334 S King St Ste 102,4.8,27,Honolulu,Bubble Tea,Inexpensive
+757,TIGER SUGAR,1365 Nuuanu Ave,4.3,104,Honolulu,Bubble Tea,
+758,Shaka Shaka Tea Express,1199 Dillingham Blvd #8107,4.5,97,Honolulu,Tea house,Inexpensive
+759,Ding Tea,665 Halekauwila St,3.8,12,Honolulu,Bubble Tea,Inexpensive
+760,S7 Icy Bubble - Kapahulu,888 Kapahulu Ave,4.2,22,Honolulu,Bubble Tea,Inexpensive
+761,Thắng's French Coffee & Bubble Tea (SAND ISLAND),111 Sand Island Access Rd Unit R8,0.0,0,Honolulu,Bubble Tea,
+762,FRIEND CAFE EXPRESS,333 Ward Ave #202,5.0,1,Honolulu,Bubble Tea,
+763,Hana Tea,1111 Dillingham Blvd unit e-2,4.6,281,Honolulu,Tea house,Inexpensive
+764,Heeretea Hawaii,1810 N King St,4.4,67,Honolulu,Coffee shop,
+765,Tea Home Honolulu,808 Sheridan St unit 108,4.3,11,Honolulu,Bubble Tea,
+766,Wave Tea,1067 Kapiolani Blvd,4.4,23,Honolulu,Tea house,
+767,Sharetea,4618 Kilauea Ave,3.8,46,Honolulu,Bubble Tea,Inexpensive
+768,Mickey Cafe,1120 Maunakea St,4.9,20,Honolulu,Bubble Tea,Inexpensive
+769,Coffee or Tea?,1960 Kapiolani Blvd #106,4.4,127,Honolulu,Tea house,Inexpensive
+770,Cowcow’s Tea,3620 Waialae Ave A,4.6,164,Honolulu,Tea house,
+771,Taste Tea Inc.,3221 Waialae Ave,4.3,67,Honolulu,Cafe,Inexpensive
+772,Cheese Tea,1221 Kapiolani Blvd #112a,4.6,64,Honolulu,Cafe,Inexpensive
+773,Shaka Shaka Tea Express,2600 S King St,4.4,83,Honolulu,Tea house,
+774,The Alley,1450 Ala Moana Blvd Suite 2805,4.3,119,Honolulu,Tea house,Moderate
+775,TOP TEA + ESPRESSO KAPIOLANI,1356 Kapiolani Blvd,4.4,130,Honolulu,Bubble Tea,Inexpensive
+776,I love bubble tea,,0.0,0,Honolulu,Bubble Tea,
+777,Taste Tea,2424 Kalakaua Ave,3.5,11,Honolulu,Cafe,
+778,Hangs French Coffee & Smoothie,1146 Fort Street Mall,4.9,54,Honolulu,Bubble Tea,
+779,Fortune Tea,1302 Pali Hwy,4.7,19,Honolulu,Bubble Tea,Inexpensive
+780,Mr. Tea Cafe,909 Kapiolani Blvd,4.6,175,Honolulu,Dessert shop,Inexpensive
+781,Mr. Tea Cafe,1450 Ala Moana Blvd Suite 1063,4.3,98,Honolulu,Dessert,
+782,Coffee or Tea? Waikiki,333 Seaside Ave #150,4.5,157,Honolulu,Coffee shop,
+783,Tea Time Taiwan,1210 Dillingham Blvd,4.6,53,Honolulu,Taiwanese,
+784,Zagu Bubble Drink,1450 Ala Moana Blvd,2.4,14,Honolulu,Bubble Tea,
+785,Teapresso Bar,3220 Waialae Ave,4.5,95,Honolulu,Cafe,Inexpensive
+786,Infinitea Cafe,1620 N School St,4.5,41,Honolulu,Cafe,
+787,Sharetea,1441 Kapiolani,4.2,10,Honolulu,Bubble Tea,Inexpensive
+788,Teapresso Bar,7192 Kalanianaʻole Hwy,2.5,18,Honolulu,Tea house,Inexpensive
+789,Milky Way Hawaii Ice (on wheel),710 Pohukaina St,0.0,0,Honolulu,Cafe,
+790,Shaka Shaka Tea Express,848 Ala Lilikoi St,4.5,67,Honolulu,Cafe,
+791,Cloud Nine Cafe Hawaii,1221 Kapiolani Blvd Suite 111,4.6,40,Honolulu,Cafe,
+792,YiFang Fruit Tea Hawaii - Dillingham,602 Dillingham Blvd,4.7,14,Honolulu,Bubble Tea,Inexpensive
+793,Teapresso Bar - Salt Lake,4369 Lawehana Street #B2-1,4.4,17,Honolulu,Bubble Tea,Inexpensive
+794,HiTEA Cafe,1450 Ala Moana Blvd #2271,3.8,33,Honolulu,Chinese,
+795,Teapresso Bar Aloha Tower,1 Aloha Tower Dr #1312,5.0,8,Honolulu,Bubble Tea,Inexpensive
+796,Chaya,4211 Waialae Ave,5.0,3,Honolulu,Bubble Tea,
+797,Bee's Dessert House,1151 Mapunapuna St # 10,4.4,19,Honolulu,Dessert shop,
+798,Aloha Bowls and Tea,2005 Kālia Rd,4.3,6,Honolulu,Tea house,
+799,Aloha ‘Aina,458 Keawe St,4.6,5,Honolulu,Cafe,
+800,Hawaii Boba Wholesale Club,330 Sand Island Access Rd Suite 400,5.0,4,Honolulu,Wholesaler,
+801,Marketplace Cafe,725 Kapiolani Blvd,4.8,4,Honolulu,Cafe,
+802,Green Tea Hawaii - Ala Moana,1450 Ala Moana Blvd,3.3,3,Honolulu,Tea house,
+803,Rabbit Rabbit Tea Aiea,99-115 Aiea Heights Dr Suite 250,4.6,50,Honolulu,Bubble Tea,Inexpensive
+804,Tea Home,45-934 Kamehameha Hey c2,4.4,169,Honolulu,Bubble Tea,Inexpensive
+805,Insomnia,669 Auahi St,4.7,69,Honolulu,Cafe,
+806,Miss Chen's Cake,808 Sheridan St STE 112,4.2,31,Honolulu,Cafe,
+807,Malu Honolulu,661 Keeaumoku Street #106-E,4.6,22,Honolulu,Cafe,
+808,LUPICIA Hawaii,1450 Ala Moana Blvd # 1100,4.4,232,Honolulu,Tea store,
+809,Summer Frappe,82 N Pauahi St,4.7,23,Honolulu,Juice,
+810,The Coffee Bean & Tea Leaf Manoa,2754 Woodlawn Dr,4.3,147,Honolulu,Coffee shop,Inexpensive
+811,Popoki + Tea Cat Cafe,3424 Waialae Ave,4.8,70,Honolulu,Pet adoption service,
+812,Honey Boba,888 Kapahulu Ave,4.3,43,Honolulu,Cafe,
