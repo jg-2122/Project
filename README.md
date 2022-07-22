@@ -19,4 +19,4 @@ Ran into some issues with creating the Python function that can scroll down to t
 1. Web scraping jupyter notebook
 2. Data cleaning/wrangling jupyter notebook
 3. Analysis jupyter notebook
-4. Piktochart infographic
+4. Piktochart infographic (https://www.linkedin.com/in/jayesongao/)
