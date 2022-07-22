@@ -1,0 +1,110 @@
+import pandas as pd
+import numpy as np
+import re
+
+address = "boba_final_v2.csv"
+df = pd.read_csv(address)
+
+df['Reviews'].sum()
+
+#bayesian ranking
+#need average rating (m), 25% percentile, bayes' average
+
+#average rating
+df['WA'] = df['Reviews'] * df['Rating']
+m = df['WA'].sum()/df['Reviews'].sum()
+
+#25% percentile
+df2 = df.sort_values(by = ['Reviews'], ignore_index=True)
+percentile = .25*df['Reviews'].count()
+percentile = percentile.astype(int)
+C = df2['Reviews'].iloc[percentile:percentile+1].sum()
+
+df['ba'] = ((df['Rating']*df['Reviews']) + (C*m))/(df['Reviews']+C)
+#df['ba']
+
+#top 10 by bayesian average
+df3 = df.sort_values(by = ['ba'], ascending = False, ignore_index = True).head(10)
+df3 = df3[['Shop', 'Rating', 'Reviews','ba','Location','City','Type','Price']]
+#df3
+
+#top store per city by bayesian average
+df4 = df.sort_values(by=["ba"], ascending = False, ignore_index = True).groupby(by=["City"]).head(1)
+df4 = df4[['Shop', 'Rating', 'Reviews','ba','Location','City','Type','Price']]
+#df4
+
+#count by type
+df5 = df.groupby(by=["Type"]).count()
+
+#chicago only (rating vs review) - calculated on total m
+df4_2 = df.loc[df['City'] == 'Chicago']
+df4_3 = df4_2[['Shop', 'Rating', 'Reviews','ba']]
+df4_3.to_csv('rat_rev_bayes.csv')
+
+#seattle only (rating vs review) - calculated on total m
+df4_2_SEA = df.loc[df['City'] == 'Seattle']
+df4_3_SEA = df4_2_SEA[['Shop', 'Rating', 'Reviews','ba']]
+df4_3_SEA.to_csv('rat_rev_bayes_SEA.csv')
+
+#san francisco only (rating vs review) - calculated on total m
+df4_2_SF = df.loc[df['City'] == 'San Francisco']
+df4_3_SF = df4_2_SF[['Shop', 'Rating', 'Reviews','ba']]
+df4_3_SF.to_csv('rat_rev_bayes_SF.csv')
+
+#count by price point
+#df.groupby(by=["Type"]).count()
+
+#summary stats
+#average rating
+a = df.groupby(by=['City']).sum()
+b = df.groupby(by=['City']).count()
+c = a['Rating']/b['Reviews']
+#median reviews
+d = df.groupby(by=['City']).median()
+#c
+
+#top by ba
+#df4_2.sort_values(by=["ba"], ascending = False)
+df2_C['Reviews'].iloc[13:14].sum()
+
+#average rating by chicago
+df_C = df4_2
+#df_C['WA'] = df['Reviews'] * df['Rating']
+mC = df_C['WA'].sum()/df_C['Reviews'].sum()
+
+#25% percentile by chicago
+df2_C = df4_2.sort_values(by = ['Reviews'], ignore_index=True)
+percentileC = .25*df4_2['Reviews'].count()
+percentileC = percentileC.astype(int)
+CC = df2_C['Reviews'].iloc[percentileC:percentileC+1].sum()
+
+df4_2['ba'] = ((df4_2['Rating']*df4_2['Reviews']) + (CC*mC))/(df4_2['Reviews']+CC)
+
+#average rating by seattle
+df_C = df4_2_SEA
+#df_C['WA'] = df['Reviews'] * df['Rating']
+mC = df_C['WA'].sum()/df_C['Reviews'].sum()
+
+#25% percentile by seattle
+df2_C = df4_2_SEA.sort_values(by = ['Reviews'], ignore_index=True)
+percentileC = .25*df4_2_SEA['Reviews'].count()
+percentileC = percentileC.astype(int)
+CC = df2_C['Reviews'].iloc[percentileC:percentileC+1].sum()
+
+df4_2_SEA['ba'] = ((df4_2_SEA['Rating']*df4_2_SEA['Reviews']) + (CC*mC))/(df4_2_SEA['Reviews']+CC)
+
+#average rating by san francisco
+df_C = df4_2_SF
+#df_C['WA'] = df['Reviews'] * df['Rating']
+mC = df_C['WA'].sum()/df_C['Reviews'].sum()
+
+#25% percentile by san francisco
+df2_C = df4_2_SF.sort_values(by = ['Reviews'], ignore_index=True)
+percentileC = .25*df4_2_SF['Reviews'].count()
+percentileC = percentileC.astype(int)
+CC = df2_C['Reviews'].iloc[percentileC:percentileC+1].sum()
+
+df4_2_SF['ba'] = ((df4_2_SF['Rating']*df4_2_SF['Reviews']) + (CC*mC))/(df4_2_SF['Reviews']+CC)
+
+#sort by top
+df4_2_SEA.sort_values(by=["ba"], ascending = False)
