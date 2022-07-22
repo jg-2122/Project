@@ -1,0 +1,70 @@
+import pandas as pd
+import numpy as np
+import re
+
+address = "Desktop/boba top10citiesasian.csv"
+columns = ["Data", "City"]
+df = pd.read_csv(address, names=columns)
+df.head()
+
+#delimiting - creating new column for shop name
+df['Shop'] = df['Data'].str.split('\n', 1).str[0].str.strip()
+df = df.drop_duplicates(keep = 'first')
+df = df.reset_index(drop=True)
+
+#Extracting Rating and Review values
+df['Data'] = df['Data'].astype(str)
+df['RatRev'] = df['Data'].str.split(')', 1).str[0].str.strip()
+df['Data'] = df['Data'].str.split(')', 1).str[1].str.strip()
+
+#Separating Rating and Review values
+df['RatRev'] = df['RatRev'].astype(str)
+df['Rating'] = df['RatRev'].str.split('(', 1).str[0].str.strip('\n')
+df['Reviews'] = df['RatRev'].str.split('(', 1).str[1].str.strip()
+df['Rating'] = df['Rating'].str.split('\n', 1).str[1].str.strip()
+
+#regex for location + strip '\n' characters at end of string
+df['Data'] = df['Data'].astype(str)
+df['Location'] = df['Data'].str.extract('(\s[0-9]+\s.+\s)', expand=False).str.strip()
+df['Location']
+
+#extract dollar sign for Price column
+df['dollar'] = df['Data'].str.extract('([$]+)', expand=False).str.strip()
+
+#Make City column titlecase
+df['City'] = df['City'].str.title()
+
+#remove 'Hawaii' from 'Honolulu'
+df['City'] = df['City'].str.split(',', 1).str[0].str.strip('\n')
+
+#Classify pricing into tiers
+df['dollar'] = df['dollar'].fillna(0)
+df.loc[df['dollar'] == '$', 'Price'] = 'Inexpensive'
+df.loc[df['dollar'] == '$$', 'Price'] = 'Moderate'
+df.loc[df['dollar'] == 0, 'Price'] = 'N/A'
+
+#extract type of store using regex
+df['Type'] = df['Data'].str.extract('(.+[|])', expand=False).str.strip()
+df['Type'] = df['Type'].str.strip('\s[|]')
+
+#df.loc[df['Rating'].str.strip() == '', 'Rating'] = '0.0'
+df['Rating'] = df['Rating'].fillna('0.0')
+df['Reviews'] = df['Reviews'].fillna('0')
+
+#Clean Rating column in preparation for conversion to float (remove 'Ad' values)
+df['Rating'] = df['Rating'].str[-3:]
+
+df['Rating'] = pd.to_numeric(df['Rating'], errors='coerce')
+df['Rating'] = df['Rating'].fillna('0.0')
+df['Reviews'] = pd.to_numeric(df['Reviews'], errors='coerce')
+df['Reviews'] = df['Reviews'].fillna('0')
+
+#if reviews = 0, clean rating column to 0
+df.loc[df['Reviews'] == '0.0', 'Rating'] = '0.0'
+
+#convert column data type
+df['Rating'] = df['Rating'].astype(float)
+df['Reviews'] = df['Reviews'].astype(int)
+
+#create final dataframe -> export to csv
+df1 = df[['Shop', 'Location', 'Rating', 'Reviews', 'City', 'Type', 'Price']]
