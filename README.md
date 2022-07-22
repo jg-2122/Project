@@ -13,7 +13,7 @@ While simple, I wanted to use this project as an opportunity to learn several th
 4) Have an end product that can be neatly visualized
 
 ### Challenges
-Ran into some issues with creating a Python function that can scroll down to the bottom of a query page in Google Maps. Workaround required a slight manual element
+Ran into some issues with creating the Python function that can scroll down to the bottom of a query page in Google Maps. Workaround required a slight manual element
 
 ### Documents and Deliverables
 1. Web scraping jupyter notebook
