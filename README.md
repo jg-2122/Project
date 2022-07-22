@@ -9,7 +9,7 @@ This project aims to demonstrate how bayesian (weighted) rankings for goods/serv
 While simple, I wanted to use this project as an opportunity to learn several things: 
 1) Procure my own dataset on a subject I'm curious about/Collect data that hasn't been readily compiled online
 2) Write my own webscraping script and experience the technical aspect of collecting data
-3) Wrangle data using Python + relevant libraries/Produce data transformations that I normally do in Excel, SQL, and Alteryx but in Python
+3) Wrangle data using Python + relevant libraries/Produce data transformations that I can do in Excel, SQL, and Alteryx but in Python
 4) Have an end product that can be neatly visualized
 
 ### Challenges
