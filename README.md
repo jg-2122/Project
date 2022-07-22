@@ -3,7 +3,7 @@
 ## Bubble Tea Comparisons and Rankings across 11 Major US Cities
 
 ### Purpose
-This project aims to demonstrate how a bayesian rating system works for goods/services and how incorporating weight to the volume of ratings could provide a more accurate reflection of ratings compare to each other.
+This project aims to demonstrate how bayesian (weighted) rankings for goods/services compares to typical non-weighted rankings for goods/services
 
 ### Motivation
 While simple, I wanted to use this project as an opportunity to learn several things: 
