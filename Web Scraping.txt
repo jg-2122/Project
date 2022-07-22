@@ -1,0 +1,112 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support.expected_conditions import presence_of_element_located
+from selenium.common.exceptions import NoSuchElementException
+from time import sleep
+import string
+import openpyxl
+import os
+
+#browser = webdriver.Chrome("/usr/local/bin/chromedriver")
+from selenium.webdriver.chrome.service import Service
+
+#chromedriver from path/loading selenium webdriver
+s = Service("/usr/local/bin/chromedriver")
+driver = webdriver.Chrome(service=s)
+
+#opening google maps
+driver.get('https://www.google.com/maps')
+
+sleep(3)
+
+#driver.close()
+
+#Finding the search box 
+driver.switch_to.default_content()
+searchbox=driver.find_element(By.ID,'searchboxinput')
+#https://www.pewresearch.org/social-trends/chart/top-10-u-s-metropolitan-areas-by-chinese-population-2019/
+#cities = ['san francisco', 'chicago', 'los angeles', 'boston', 'dallas', 'san jose', 'seattle', 'washington dc', 'new york', 'honolulu', 'houston']
+#for c in cities:
+    #query = c + 'boba'
+city= "honolulu, hawaii"
+query= city + ' boba'
+searchbox.send_keys(query)
+searchbox.send_keys(Keys.ENTER)
+sleep(2)
+
+cancelbut=driver.find_element(By.CLASS_NAME, 'gsst_a')
+cancelbut.click()
+searchbox.send_keys(query)
+searchbox.send_keys(Keys.ENTER)
+sleep(3)
+
+#Prepare the excel file using the Openpyxl  
+wb= openpyxl.load_workbook("boba.xlsx")
+sheetname=wb.sheetnames[0]
+sheet=wb[sheetname]
+sheet.title ="boba"
+
+entries=driver.find_elements(By.CLASS_NAME, 'RnEfrd-jRmmHf-HSrbLb')
+#shop name entries=driver.find_elements(By.CLASS_NAME, 'qBF1Pd')
+#rating(review) entries=driver.find_elements(By.CLASS_NAME, 'ZkP5Je')
+#entries=driver.find_elements(By.XPATH, '//////////////////span[1]')
+
+#print(entries[0].text)
+
+for entry in entries:
+    #name = entry.get_attribute("aria-label")
+    print(entry.text)
+    
+    try:
+        sheet.append([entry.text, city])
+    except IndexError:
+        pass
+    
+wb.save("boba.xlsx")
+
+#scroll down to bottom (issues with this line of code)
+driver.find_element(By.CLASS_NAME, 'Yr7JMd-pane-visible')
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+#Finding the search box 
+driver.switch_to.default_content()
+searchbox=driver.find_element(By.ID,'searchboxinput')
+#https://www.pewresearch.org/social-trends/chart/top-10-u-s-metropolitan-areas-by-chinese-population-2019/
+#cities = ['san francisco', 'chicago', 'los angeles', 'boston', 'dallas', 'san jose', 'seattle', 'washington dc', 'new york', 'honolulu', 'houston']
+#for c in cities:
+    #query = c + 'boba'
+city= "honolulu, hawaii"
+query= city + ' boba'
+searchbox.send_keys(query)
+searchbox.send_keys(Keys.ENTER)
+sleep(2)
+
+cancelbut=driver.find_element(By.CLASS_NAME, 'gsst_a')
+cancelbut.click()
+searchbox.send_keys(query)
+searchbox.send_keys(Keys.ENTER)
+sleep(3)
+
+#Prepare the excel file using the Openpyxl  
+wb= openpyxl.load_workbook("boba.xlsx")
+sheetname=wb.sheetnames[0]
+sheet=wb[sheetname]
+sheet.title ="boba"
+
+entries=driver.find_elements(By.CLASS_NAME, 'RnEfrd-jRmmHf-HSrbLb')
+
+#scroll down to bottom
+driver.find_element(By.CLASS_NAME, 'Yr7JMd-pane-visible')
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+for entry in entries:
+    print(entry.text)
+    
+    try:
+        sheet.append([entry.text, city])
+    except IndexError:
+        pass
+    
+wb.save("boba.xlsx")
