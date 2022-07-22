@@ -17,5 +17,6 @@ Ran into some issues with creating the Python function that can scroll down to t
 
 ### Documents and Deliverables
 1. Web scraping jupyter notebook
-2. Data cleaning/wrangle jupyter notebook
-3. Piktochart infographic
+2. Data cleaning/wrangling jupyter notebook
+3. Analysis jupyter notebook
+4. Piktochart infographic
